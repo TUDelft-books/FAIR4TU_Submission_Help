@@ -8,7 +8,35 @@ parts:
       sections:
       - file: introduction/fair_data_and_software.md
       - file: introduction/funders_and_journals.md
-      - file: institutional_requirements.md    
+      - file: institutional_requirements.md  
+
+    - file: 4tu_research_data/intro.md
+      sections:
+      - file: 4tu_research_data/key_features.md
+      - file: 4tu_research_data/4tu_community.md
+      - file: 4tu_research_data/how_to_contribute.md
+      - file: 4tu_research_data/4tu_contact_info.md
+
+    - file: submission_workflow/intro.md
+      sections:
+      - file: submission_workflow/preparing_your_data_package.md
+      - file: submission_workflow/netcdf_opendap_iiif_and_supported_file_formats/intro.md
+        sections:
+        - file: submission_workflow/netcdf_opendap_iiif_and_supported_file_formats/iiif.md
+      - file: submission_workflow/readme_and_documentation.md
+      - file: submission_workflow/choosing_a_licence.md
+      - file: submission_workflow/setting_access_levels/intro.md
+        section:
+        - file: submission_workflow/setting_access_levels/personal_and_sensitive_data.md
+      - file: submission_workflow/data_collections.md
+      - file: submission_workflow/data_curation/intro.md
+        sections:
+        - file: submission_workflow/data_curation/metadata_review_process.md
+      - file: submission_workflow/updating_deposited_data.md
+
+      
+
+
     - file: references.md
-    - file: changelog.md
+    # - file: changelog.md
     - file: credits.md
