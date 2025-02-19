@@ -7,7 +7,7 @@ parts:
     - file: introduction/intro.md
       sections:
       - file: introduction/fair_data_and_software.md
-      - file: introduction/founders_and_journals.md
+      - file: introduction/funders_and_journals.md
       - file: institutional_requirements.md    
     - file: references.md
     - file: changelog.md
