@@ -6,7 +6,7 @@ Research data repositories are digital platforms that store, manage, and dissemi
 
 1. **Data Preservation:** Repositories safeguard research data, ensuring its availability long after projects conclude.
 2. **Enhanced Accessibility:** They democratize data access, breaking down geographical barriers and promoting global scientific collaboration.
-3. **Improved Discoverability:** Through [metadata](/submission_workflow/data_curation/metadata_review_process) and indexing, repositories make it easier for researchers to find relevant data.
+3. **Improved Discoverability:** Through [metadata](/submission_workflow/data_curation.md#metadata-review-process-checklist) and indexing, repositories make it easier for researchers to find relevant data.
 4. **Facilitated Reusability::** Well-documented datasets enable other researchers to build upon existing work.
 
 ## Benefits for Researchers
