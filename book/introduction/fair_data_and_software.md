@@ -1,6 +1,6 @@
 # What is FAIR Research Data and Software?
 
-The [FAIR Principles](https://www.nature.com/articles/sdata201618) {cite}`template` describe how data can be organized and documented. FAIR is the ideal standard not only for other (human) users but also for computer systems. 
+The [FAIR Principles](https://www.nature.com/articles/sdata201618) {cite}`wilkinson2016fair` describe how data can be organized and documented. FAIR is the ideal standard not only for other (human) users but also for computer systems. 
 
 ## FAIR stands for:
 
