@@ -1,21 +1,14 @@
 format: jb-book
-root: intro.md
+# root: intro.md
 
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/overview.md
+    - file: introduction/intro.md
       sections:
-      - file: some_content/text_and_code.ipynb
-    - file: exercises
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
+      - file: introduction/fair_data_and_software.md
+      - file: introduction/founders_and_journals.md
+      - file: institutional_requirements.md    
     - file: references.md
     - file: changelog.md
     - file: credits.md
