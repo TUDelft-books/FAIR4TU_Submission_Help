@@ -8,7 +8,7 @@ parts:
       sections:
       - file: introduction/fair_data_and_software.md
       - file: introduction/funders_and_journals.md
-      - file: institutional_requirements.md  
+      - file: introduction/institutional_requirements.md  
       
     - file: 4tu_research_data/intro.md
       sections:
