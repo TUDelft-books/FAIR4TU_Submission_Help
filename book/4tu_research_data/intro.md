@@ -1,11 +1,11 @@
 # What is 4TU.ResearchData?
 
-4TU.ResearchData is a research infrastructure, community and training provider whose mission is to enable researchers from science, engineering and design disciplines to make a global impact with research data and software. 
+4TU.ResearchData is a research infrastructure, community and training provider whose mission is to enable researchers from science, engineering and design disciplines to make a global impact with research data and software.
 
 This video introduces 4TU.ResearchData, an international data repository for science, engineering and design disciplines.
 
 <div class="responsive-iframe-container">
-    <iframe src="https://youtu.be/embed/DdjDSmhOa64?feature=shared" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+    <iframe src="https://www.youtube.com/embed/DdjDSmhOa64" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <p class="caption">"caption"</p>
 

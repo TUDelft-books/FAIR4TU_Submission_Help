@@ -1,1 +1,52 @@
-# a
+# Submission Workflow
+
+Thinking ahead about the data submission process is crucial for researchers aiming to maximize the impact and accessibility of their work. By envisioning the workflow in advance, you can ensure that your data is well-organized, thoroughly documented, and compliant with best practices. This proactive approach not only enhances the findability and reusability of your research outputs but also saves time and effort during the submission process.
+
+**Account Creation**
+* Navigate to the repository website
+* Register either by:
+    * SURFconext
+    * eduID 
+* Complete user profile
+
+[**Initial Dataset Preparation**](/submission_workflow/preparing_your_data_package)
+* Organize research data files.
+* Ensure preservation-friendly formats.
+* Verify data integrity and completeness.
+
+[**README File Preparation**](/submission_workflow/readme_and_documentation)
+* Create comprehensive documentation.
+* Include project context and methodology.
+* Explain file structure and data processing.
+* Provide essential interpretation guidance.
+
+[**Metadata Entry**](/submission_workflow/data_curation.md#metadata-review-process-checklist)
+* Complete detailed dataset description.
+* Add author and contributor information.
+* Select appropriate keywords.
+* Link related research outputs.
+
+[**Licence Selection**](/submission_workflow/choosing_a_licence)
+* Choose an appropriate data sharing licence.
+* Consider reuse and attribution requirements.
+* Align with institutional policies.
+
+[**Access Control**](/submission_workflow/setting_access_levels)
+* The default is ‘Open Access,’
+* Select the applicable access level if you do not wish to apply the default.
+* Set potential embargo periods.
+
+[**Submission and Review**](/submission_workflow/data_curation)
+* Upload all research files.
+* Submit comprehensive documentation.
+* Complete repository submission form.
+* Await review and feedback.
+* Receive permanent digital identifier (DOI).
+
+Watch this video summary of the dataset submission process
+
+<div class="responsive-iframe-container">
+    <iframe src="https://www.youtube.com/embed/VmQr5oDXpoY" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
+
+By following this structured workflow, you can ensure a smooth submission process that enhances the visibility and impact of your research. A well-prepared submission not only benefits you as a researcher but also contributes to the broader scientific community by facilitating access to valuable data.
