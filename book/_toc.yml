@@ -28,6 +28,23 @@ parts:
       - file: submission_workflow/data_curation.md
       - file: submission_workflow/updating_deposited_data.md
 
+    - file: software_deposit_features/intro.md
+      sections:
+      - file: software_deposit_features/git_integration.md
+      - file: software_deposit_features/versioning_and_release_management.md
+
+    - file: citing_data/intro.md
+      sections:
+      - file: citing_data/dois_and_persistent_identifers.md
+      - file: citing_data/linking_data_to_publications.md
+
+    - file: data_preservation/intro.md
+      sections:
+      - file: data_preservation/cost_and_storage_limits.md
+
+    - file: usage_statistics_and_metrics/intro.md
+    - file: useful_resources/intro.md  
+
     - file: references.md
     # - file: changelog.md
     - file: credits.md
