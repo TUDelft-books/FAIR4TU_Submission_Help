@@ -113,3 +113,55 @@ This human-centered approach not only improves the quality of your data but also
     - ✅When longitude and latitude are indicated, a link is generated.
         - Check accuracy using "preview" and "openstreetmap".
 
+- **✅[File Format(s)](https://data.4tu.nl/s/documents/Preferred_File_Formats_2023.pdf):**
+    - ✅Indicate formats for data sets and related files.
+        - Note: it is enough to state file extensions.
+
+- **✅Data Link:**
+    - ✅Are there [NetCDF from OPENDaP](/submission_workflow/supported_file_formats) files?
+        - If so, the curator will create a link on your behalf.
+
+- **✅Derived From:**
+    - ✅Provide sources from which the item was taken.
+        - This might be the case if the dataset is already stored elsewhere.
+        - Note: this field is NOT for the peer-reviewed article DOI (see above - Linked Resources & References)
+
+- **✅Same As:**
+    - ✅Include a URL redirecting to the data in another location if applicable.
+    - ✅Please note: your data might note be accepted if you have submitted it to another repository which assigned it a DOI.
+
+- **✅Keywords:**
+    - ✅Choose at least 4 keywords to enhance finadability (More are better!)
+    - ✅Ensure keywords describe the content, not the object.
+    - ✅Look at keywords used in other relevant datasets.
+
+- **✅Organizations:**
+    - ✅Provide the names of contributing organizations. Format:
+        - Institution / facility / department / research group
+            - Format guide: largest to smallest.
+
+### Files
+- **✅Files:**
+    - ✅Ensure the dataset or software and related files are uploaded (preferably in an archive format, e.g.: .zip)
+    - ✅Include a [README](/submission_workflow/readme_and_documentation).
+
+### Terms and Agreement
+- **✅Deposit Agreement:**
+    - ✅Select "I agree with the [Deposit Agreement](https://data.4tu.nl/s/docs/deposit-agreement.pdf)."
+    - ✅Select "I agree that my dataset will be published once the review is complete."
+
+### Final Step
+
+<center>
+
+![alt text](image.png)
+
+</center>
+
+Your submission **remains a draft and is not published** until the curator reviews it. 
+
+Once you receive an email with suggestions, **please reply to approve the suggested changes** and/or make any necessary amendments. 
+
+It is important to remember that your dataset or software will not be published in the repository until you have replied and approved the changes. 
+
+[This link](https://data.4tu.nl/s/documents/Metadata_review_guidelines_June_2021.pdf) contains more information about Metadata Review. 
