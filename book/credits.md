@@ -1,5 +1,5 @@
 (credits)=
-# Credits and License
+# Credits and Licence
 
 You can refer to this book as:
 
