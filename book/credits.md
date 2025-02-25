@@ -34,3 +34,5 @@ The following pages contain content written by others, part of has been reused a
 ## About the Editors
 
 ### Acknowledgements
+This learning resource was developed with the assistance of Perplexity AI (2024) and ChatGPT (OpenAI, 2024–2025). The AI-generated content was used as guidance, and all final material was reviewed and curated by the author(s).
+
