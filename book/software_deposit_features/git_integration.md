@@ -35,17 +35,25 @@ Once you are on the 4TU.ResearchData repository upload interface, you can publis
     - Removes a connection with a previous version URL if you publish an updated version of your software.
         - You need to establish a connection with the updated version URL which  is assigned by the metadata form. 
 
-5. In ‘Git repository files and branches,’ click the ‘refresh’ (🔄) button to see changes. 
+5. In the project terminal window, navigate to your software project folder.
 
-6. Under ‘Git default branch,’ select the branch from the dropdown menu that users will be in after cloning the Git repository.
+6. Copy `git remote add 4tu <Git URL provided by the metadata form>` (1st command) and paste it in the terminal window. Press enter.
 
-7. Add a Git repository name that will be used as a folder name when cloning the repository.
+7. Copy `git push 4tu --all` and `git push 4tu --tags` (2nd command) and paste them in the terminal window. Press enter.
 
-8. Under ‘Code hosting project URL,’ you can add a link to the ‘live’ version of your code on the  code-hosting platform.
+8. Copy `git remote remove 4tu` (3rd command) and paste it to terminal window. Press enter. 
+  
+9. In ‘Git repository files and branches,’ click the ‘refresh’ (🔄) button to see changes. 
 
-9. Finally, in ‘Git file list,’ check to ensure that all the relevant files are present.  
+10. Under ‘Git default branch,’ select from the dropdown menu the branch that users land on after cloning the Git repository.
 
-10. Agree to ‘Terms and agreement,’ save the draft and, then click ‘Submit For Review’’ at the top of the page. 
+11. Add a Git repository name that will be used as a folder name when cloning the repository.
+
+12. Under ‘Code hosting project URL,’ you can add a link to the ‘live’ version of your code on the  code-hosting platform.
+
+13. Finally, in ‘Git file list,’ check to ensure that all the relevant files are present.  
+
+14. Agree to ‘Terms and agreement,’ save the draft and, then click ‘Submit For Review’’ at the top of the page. 
 
 Your latest version DOI will be the default.  
 
