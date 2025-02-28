@@ -41,7 +41,7 @@ Once you are on the 4TU.ResearchData repository upload interface, you can publis
 
 7. Copy `git push 4tu --all` and `git push 4tu --tags` (2nd command) and paste them in the terminal window. Press enter.
 
-8. Copy `git remote remove 4tu` (3rd command) and paste it to terminal window. Press enter. 
+8. Copy `git remote remove 4tu` (3rd command) and paste it in the terminal window. Press enter. 
   
 9. In ‘Git repository files and branches,’ click the ‘refresh’ (🔄) button to see changes. 
 
