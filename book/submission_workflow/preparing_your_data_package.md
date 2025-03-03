@@ -1,6 +1,6 @@
 # Preparing Your Data Package
 
-Creating a well-structured data package is essential for efficient storage and future analysis when depositing in the 4TU.ResearchData Repository. 
+Creating a well-structured data package is essential for efficient storage and future analysis when depositing in the 4TU.ResearchData Repository. Before proceeding, consider whether you are uploading a single dataset or multiple datasets and whether it would be beneficial to organize them as a collection.
 
 Follow these guidelines to develop a comprehensive data package:
 
