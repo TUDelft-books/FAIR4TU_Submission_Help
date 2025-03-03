@@ -8,7 +8,8 @@ Contributing to the 4TU.ResearchData community provides valuable opportunities t
 - Suggest new features.
 - Deepen understanding of research data management.
 
-**2. Financial Contributions:**
+**2. Membership Contributions:**
+- Apply for for membership: the consortium is open to any organisation or institution that shares our values.
 - Support the sustainability of 4TU.ResearchData.
 - Enable ongoing enhancements.
 - Access exclusive services and training opportunities.
