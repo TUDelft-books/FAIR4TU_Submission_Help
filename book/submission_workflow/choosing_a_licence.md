@@ -27,13 +27,13 @@ The repository provides several options for data and software.
 
 **Apache Licence 2:** Allows freedom with explicit patent rights.
 
-For maximum reuse and [FAIR](/introduction/fair_data_and_software) data management, you should choose a licence that allows the widest audience and range of uses possible.
-
 ## Hardware Licences
 **CERN Open Hardware Licence Version 2:** Permissive (CERN-OHL-P).
 
 **CERN Open Hardware Licence Version 2:** Weakly Reciprocal (CERN-OHL-W).
 
 **CERN Open Hardware Licence Version 2 S:** Strongly Reciprocal (CERN-OHL-S).
+
+For maximum reuse and [FAIR](/introduction/fair_data_and_software) data management, you should choose a licence that allows the widest audience and range of uses possible.
 
 A detailed list of licence options is available [here](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing). 
