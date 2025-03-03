@@ -8,6 +8,6 @@ When submitting software to 4TU.ResearchData, researchers should be aware of sev
 - [Versioning and Release Management](/software_deposit_features/versioning_and_release_management)
 - [DOI Assignment](/4tu_research_data/key_features)
 - [Open File Formats](/submission_workflow/supported_file_formats)
-- [Documentation Support](/submission_workflow/data_curation.md#Metadata-Review-Process-Checklist)
+- [Documentation and README files](/submission_workflow/data_curation.md#Metadata-Review-Process-Checklist)
 
 Before uploading, researchers should also check their [institutional research software policies](/introduction/institutional_requirements) to ensure compliance with any specific guidelines or requirements related to software sharing and documentation. 
