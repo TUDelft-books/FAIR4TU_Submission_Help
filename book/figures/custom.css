@@ -1,31 +1,29 @@
-/* :root {
-    --color-primary: orange !important;
-    --color-secondary: white !important;
-    --color-link: orange !important;
-}
-
-[data-theme="dark"] {
-    --color-primary: #ffb733 !important;
-    --color-secondary: #1a1a1a !important;
-} */
-
+/* Define primary and secondary colors */
 :root {
-    --color-primary: orange !important;
-    --color-secondary: white !important;
-    --color-link: orange !important;
-    --color-link-hover: #cc8400 !important;
+    --color-primary: orange !important; /* Set orange as the primary color */
+    --color-secondary: white !important; /* Set white as the secondary color */
+    --color-link: orange !important; /* Set link color */
+    --color-link-hover: #cc8400 !important; /* Set hover state for links */
 }
 
-/* Dark mode overrides */
+/* Dark mode compatibility */
 [data-theme="dark"] {
-    --color-primary: #ffb733 !important;
-    --color-secondary: #1a1a1a !important;
-    --color-link: #ffb733 !important;
-    --color-link-hover: #e6a329 !important;
+    --color-primary: #ffb733 !important; /* Adjusted orange for dark mode */
+    --color-secondary: #1a1a1a !important; /* Dark background */
 }
 
-/* Force header colors */
-.sd-navbar { 
-    background: var(--color-primary) !important; 
+/* Override specific elements (e.g., navbar, buttons) */
+.sd-navbar {
+    background-color: var(--color-primary) !important;
     color: var(--color-secondary) !important;
+}
+
+button,
+a,
+.admonition-title {
+    color: var(--color-primary) !important;
+}
+
+.admonition {
+    border-left: 4px solid var(--color-primary) !important;
 }
