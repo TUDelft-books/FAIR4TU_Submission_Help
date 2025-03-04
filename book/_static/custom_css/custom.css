@@ -1,0 +1,10 @@
+:root {
+    --color-primary: orange !important;
+    --color-secondary: white !important;
+    --color-link: orange !important;
+}
+
+[data-theme="dark"] {
+    --color-primary: #ffb733 !important;
+    --color-secondary: #1a1a1a !important;
+}
