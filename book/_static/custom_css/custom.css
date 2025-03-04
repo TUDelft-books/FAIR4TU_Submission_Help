@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --color-primary: orange !important;
     --color-secondary: white !important;
     --color-link: orange !important;
@@ -7,4 +7,25 @@
 [data-theme="dark"] {
     --color-primary: #ffb733 !important;
     --color-secondary: #1a1a1a !important;
+} */
+
+:root {
+    --color-primary: orange !important;
+    --color-secondary: white !important;
+    --color-link: orange !important;
+    --color-link-hover: #cc8400 !important;
+}
+
+/* Dark mode overrides */
+[data-theme="dark"] {
+    --color-primary: #ffb733 !important;
+    --color-secondary: #1a1a1a !important;
+    --color-link: #ffb733 !important;
+    --color-link-hover: #e6a329 !important;
+}
+
+/* Force header colors */
+.sd-navbar { 
+    background: var(--color-primary) !important; 
+    color: var(--color-secondary) !important;
 }
