@@ -80,18 +80,30 @@ a,
     content: none !important; /* Remove pseudo-elements */
 }
 
+
+
+
+
+
 /* Styling the active/current sidebar item */
 .bd-toc-item .toctree-l1.current,
 .bd-toc-item .toctree-l1.active {
-    border-left: 4px solid var(--color-primary) !important; /* Orange bar */
+    border-left: 4px solid var(--color-primary) !important; /* Add orange bar */
     color: var(--color-primary) !important; /* Ensure text is orange */
+    background-color: transparent !important; /* Remove any background color */
 }
 
-/* Remove any lingering blue styles */
+/* Remove blue bar (if applied via pseudo-elements) */
+.bd-toc-item .toctree-l1.current::before,
+.bd-toc-item .toctree-l1.active::before {
+    content: none !important; /* Remove pseudo-elements */
+}
+
+/* Fix long orange bar issue */
 .bd-toc-item .toctree-l1.current,
 .bd-toc-item .toctree-l1.active {
-    border-left-color: var(--color-primary) !important; /* Force orange border */
-    background-color: transparent !important; /* Remove background color */
+    padding-left: 0 !important; /* Reset padding to avoid extending bar length */
+    margin-left: 0 !important; /* Reset margin to align properly */
 }
 
 /* Optional: Hover effect for sidebar links */
