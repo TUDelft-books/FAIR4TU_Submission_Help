@@ -1,4 +1,4 @@
-# Setting Access Levels
+# Types of Access
 
 Selecting the appropriate access level for datasets and software in 4TU.ResearchData is crucial, as it determines how others can interact with the research outputs. Researchers must carefully consider their obligations to research partners, especially those from the commercial sector, when making this decision.
 
@@ -8,9 +8,9 @@ Selecting the appropriate access level for datasets and software in 4TU.Research
 
 **2. Embargoed Access:** Temporarily restricts access for a specified period. This is useful when delaying publication is necessary, such as for patent filing or pending journal article publication. We recommend that researchers only place embargo access on files rather than on the entire upload. However, it is possible to place a full embargo on your data set or software. See below for examples.
 
-**3. Metadata-Only:** Creates a record with descriptive information but without the actual data files due to, for example, full embargo. Suitable for sensitive data stored securely elsewhere. More information is available [here])( https://communities.springernature.com/posts/metadata-only-records-what-are-they-and-why-are-they-useful?badge_id=269-springer-nature). 
+**3. [Restricted Access](https://data.4tu.nl/s/documents/4TU.ResearchData_Restricted_Access_2023.pdf):** Limits access to authorized users only. Appropriate for [personal data](#personal--sensitive-data) that cannot be fully anonymized or when contractual obligations require controlled access. See below for examples. 
 
-**4. [Restricted Access](https://data.4tu.nl/s/documents/4TU.ResearchData_Restricted_Access_2023.pdf):** Limits access to authorized users only. Appropriate for [personal data](#personal--sensitive-data) that cannot be fully anonymized or when contractual obligations require controlled access. See below for examples. 
+**4. Metadata-Only:** Creates a record with descriptive information but without the actual data files because data is stored securely elsewhere. More information is available [here]( https://communities.springernature.com/posts/metadata-only-records-what-are-they-and-why-are-they-useful?badge_id=269-springer-nature). 
 
 These access levels are elaborated on in [page 4 of this document](https://data.4tu.nl/s/docs/data-collection-policy.pdf). 
 
