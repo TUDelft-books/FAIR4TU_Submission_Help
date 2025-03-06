@@ -57,19 +57,27 @@ a,
 
 /* Styling Active Sidebar Link */
 .bd-sidebar-secondary .nav-link.active {
-    border-left: 4px solid var(--color-primary) !important; /* Change blue bar to orange */
+    border-left: 4px solid var(--color-primary) !important; /* Add orange bar */
     color: var(--color-primary) !important; /* Ensure text is orange */
+    background-color: transparent !important; /* Remove any background styling */
 }
 
-/* Completely remove the blue bar */
+/* Remove any lingering blue bar styles */
 .bd-sidebar-secondary .nav-link.active {
-    border-left-color: var(--color-primary) !important; /* Override blue border */
+    border-left-color: var(--color-primary) !important; /* Force orange border color */
+}
+
+/* Completely reset conflicting styles */
+.bd-sidebar-secondary .nav-link.active {
+    border-left: 4px solid var(--color-primary) !important; /* Apply only orange border */
+    box-shadow: none !important; /* Remove shadow effects */
     background-color: transparent !important; /* Ensure no background color */
 }
 
-/* Reset any other conflicting styles */
-.bd-sidebar-secondary .nav-link.active {
-    border-left: none !important; /* Remove any existing left border */
-    box-shadow: none !important; /* Remove shadow if applied */
+/* Remove pseudo-elements if they are causing issues */
+.bd-sidebar-secondary .nav-link.active::before,
+.bd-sidebar-secondary .nav-link.active::after {
+    content: none !important; /* Remove pseudo-elements */
 }
+
 
