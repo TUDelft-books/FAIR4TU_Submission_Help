@@ -52,20 +52,24 @@ a,
     color: var(--color-link-hover) !important; /* Set hover color for titles */
 }
 
+
+
+
 /* Styling Active Sidebar Link */
 .bd-sidebar-secondary .nav-link.active {
     border-left: 4px solid var(--color-primary) !important; /* Change blue bar to orange */
     color: var(--color-primary) !important; /* Ensure text is orange */
-    background-color: transparent !important; /* Remove any background color */
 }
 
-/* Reset any existing blue border or background */
+/* Completely remove the blue bar */
 .bd-sidebar-secondary .nav-link.active {
     border-left-color: var(--color-primary) !important; /* Override blue border */
     background-color: transparent !important; /* Ensure no background color */
 }
 
-/* Optional: Hover effect for sidebar links */
-.bd-sidebar-secondary .nav-link:hover {
-    color: var(--color-link-hover) !important; /* Set hover color for links */
+/* Reset any other conflicting styles */
+.bd-sidebar-secondary .nav-link.active {
+    border-left: none !important; /* Remove any existing left border */
+    box-shadow: none !important; /* Remove shadow if applied */
 }
+
