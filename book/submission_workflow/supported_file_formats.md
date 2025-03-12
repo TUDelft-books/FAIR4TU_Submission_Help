@@ -1,5 +1,30 @@
 # NetCDF, OPeNDAP, IIIF & Supported File Formats
 
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+    }
+
+    .responsive-iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    /* Add this block to centralize the caption */
+    .caption {
+        text-align: center;
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
+</style>
+
 4TU.ResearchData encourages the use of standard, exchangeable, or open file formats, which are widely recognized and supported across various platforms, ensuring that data can be easily shared and reused without compatibility issues. 
 
 **Preferred formats include:**

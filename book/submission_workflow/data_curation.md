@@ -1,5 +1,30 @@
 # Data Curation
 
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+    }
+
+    .responsive-iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    /* Add this block to centralize the caption */
+    .caption {
+        text-align: center;
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
+</style>
+
 Submitting your data to 4TU.ResearchData offers a unique advantage: curation by a real person. This human touch ensures that the metadata is accurate and appropriate, and that the related documentation is well-organized, aligning with [FAIR](/introduction/fair_data_and_software) principles.
 
 This personalized guidance helps you learn best practices for data publishing, ultimately increasing your research impact. The curator also ensures your submission adheres to 4TU.ResearchData's [metadata](#metadata-review-process-checklist) quality standards and policies.

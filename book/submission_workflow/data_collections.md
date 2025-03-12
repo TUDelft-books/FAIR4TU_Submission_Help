@@ -1,5 +1,30 @@
 # Establishing a Dataset Collection
 
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+    }
+
+    .responsive-iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    /* Add this block to centralize the caption */
+    .caption {
+        text-align: center;
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
+</style>
+
 By thoughtfully organizing your data in 4TU.ResearchData, you're not just storing information; you're contributing to a more interconnected and accessible research ecosystem. A collection in the 4TU.ResearchData repository is a beneficial way to organize your research when you have multiple related datasets to group together. Collections enhance the discoverability, interoperability, and research potential of your data, but should only be created if you have multiple datasets to include. 
 
 Just like a single dataset receives a [DOI](/citing_data/dois_and_persistent_identifiers), dataset collections also receive their own DOI, providing a convenient way to reference the entire body of related work.

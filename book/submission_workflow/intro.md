@@ -1,5 +1,30 @@
 # Submission Workflow
 
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+    }
+
+    .responsive-iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    /* Add this block to centralize the caption */
+    .caption {
+        text-align: center;
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
+</style>
+
 Thinking ahead about the data submission process is crucial for researchers aiming to maximize the impact and accessibility of their work. By envisioning the workflow in advance, you can ensure that your data is well-organized, thoroughly documented, and compliant with best practices. This proactive approach not only enhances the findability and reusability of your research outputs but also saves time and effort during the submission process.
 
 **Account Creation**
