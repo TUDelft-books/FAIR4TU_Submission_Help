@@ -100,7 +100,7 @@ header .logo-image,
 .title.logo_title, 
 p.title.logo__title, 
 div.title.logo_title {
-  font-size: 0.8rem !important;
+  font-size: 0.9rem !important;
   line-height: 1 !important;
   max-width: 100% !important;
   /* transform: scale(0.8) !important; */
