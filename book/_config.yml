@@ -23,7 +23,8 @@ sphinx:
         text: FAIR 4TU Submission Help
         image_light: 4tu_logo.png
         image_dark: 4tu_logo.png
-        image_height: 60px
+        image_height: 100px
+        image_width: 100px
       repository_url: "https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help/" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
