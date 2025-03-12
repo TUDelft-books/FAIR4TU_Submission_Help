@@ -4,11 +4,6 @@
 
 This video introduces 4TU.ResearchData, an international data repository for science, engineering and design disciplines.
 
-<div class="responsive-iframe-container">
-    <iframe src="https://www.youtube.com/embed/DdjDSmhOa64" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
-</div>
-<p class="caption">"caption"</p>
-
 ## Main Service
 
 4TU.ResearchData is a trusted digital repository which supports Findable, Accessible, Interoperable and Reusable (FAIR) data and software by offering [curation](/submission_workflow/data_curation.md), sharing, long-term access and [preservation](/data_preservation/intro.md). 
