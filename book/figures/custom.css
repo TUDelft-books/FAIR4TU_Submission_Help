@@ -80,15 +80,30 @@ a,
     content: none !important; /* Remove pseudo-elements */
 }
 
-/* Make the FAIR 4TU Submission Help text smaller */
-.navbar-brand-box .site-title {
-    font-size: 0.6rem !important; /* Adjust this value as needed */
-  }
+/* TITLE SIZE - Multiple selector attempts to ensure it works */
+.navbar-brand-box .site-title,
+.navbar-brand .site-title,
+header .navbar-brand-box .site-title,
+.navbar .navbar-brand .site-title,
+#site-title,
+a.navbar-brand .site-title {
+  font-size: 0.6rem !important;
+  transform: scale(0.8) !important; /* Additional scaling effect */
+  max-width: 200px !important; /* Limit width if needed */
+  display: inline-block !important;
+}
 
-/* Target specifically the logo images */
-.navbar-brand-box .logo-image[src*="4tu_logo.png"] {
-    max-height: 60px !important;
-    width: auto;
-  }
-
+/* LOGO SIZE - Multiple selector attempts to ensure it works */
+.navbar-brand-box img,
+.navbar-brand img,
+.navbar-brand-box .logo-image,
+.navbar-brand .logo-image,
+img[src*="4tu_logo.png"],
+header .logo-image,
+.navbar .navbar-brand img {
+  max-height: 80px !important; /* Make even bigger for visibility */
+  height: auto !important;
+  width: auto !important;
+  min-height: 60px !important; /* Ensure minimum size */
+}
 
