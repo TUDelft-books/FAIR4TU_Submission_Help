@@ -89,10 +89,10 @@ a,
 img[src*="4tu_logo.png"],
 header .logo-image,
 .navbar .navbar-brand img {
-  max-height: 120px !important; /* Make even bigger for visibility */
+  max-height: 150px !important; /* Make even bigger for visibility */
   height: auto !important;
   width: auto !important;
-  min-height: 120px !important; /* Ensure minimum size */
+  min-height: 150px !important; /* Ensure minimum size */
 }
 
 /* LOGO TEXT - Multiple selector attempts to ensure it works */
