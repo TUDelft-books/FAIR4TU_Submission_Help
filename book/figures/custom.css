@@ -80,18 +80,6 @@ a,
     content: none !important; /* Remove pseudo-elements */
 }
 
-/* TITLE SIZE - Multiple selector attempts to ensure it works */
-.navbar-brand-box .site-title,
-.navbar-brand .site-title,
-header .navbar-brand-box .site-title,
-.navbar .navbar-brand .site-title,
-#site-title,
-a.navbar-brand .site-title {
-  font-size: 0.6rem !important;
-  transform: scale(0.8) !important; /* Additional scaling effect */
-  max-width: 200px !important; /* Limit width if needed */
-  display: inline-block !important;
-}
 
 /* LOGO SIZE - Multiple selector attempts to ensure it works */
 .navbar-brand-box img,
@@ -101,9 +89,38 @@ a.navbar-brand .site-title {
 img[src*="4tu_logo.png"],
 header .logo-image,
 .navbar .navbar-brand img {
-  max-height: 80px !important; /* Make even bigger for visibility */
+  max-height: 120px !important; /* Make even bigger for visibility */
   height: auto !important;
   width: auto !important;
-  min-height: 60px !important; /* Ensure minimum size */
+  min-height: 120px !important; /* Ensure minimum size */
 }
 
+/* LOGO TEXT - Multiple selector attempts to ensure it works */
+/* Target the specific title class shown in the HTML */
+.title.logo_title, 
+p.title.logo_title, 
+div.title.logo_title {
+  font-size: 0.6rem !important;
+  line-height: 1 !important;
+  max-width: 100% !important;
+  transform: scale(0.8) !important;
+  transform-origin: left center !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Additional selectors to ensure coverage */
+[class="title logo_title"],
+[class^="title logo_title"],
+*[class*="title logo_title"] {
+  font-size: 0.6rem !important;
+  line-height: 1 !important;
+}
+
+/* Make sure the parent container allows the smaller text */
+p.title.logo_title, 
+.navbar-brand-box, 
+.navbar-brand {
+  min-height: auto !important;
+  height: auto !important;
+}
