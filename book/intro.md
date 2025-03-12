@@ -1,5 +1,5 @@
 (intro)=
-# Welcome to the 
+# How to Submit Your Data
 
 <style>
     .responsive-iframe-container {
@@ -17,6 +17,12 @@
         height: 100%;
     }
 </style>
+
+Welcome to this learning resource on submitting your research data to 4TU.ResearchData. Proper data submission ensures that your work remains accessible, reusable, and properly credited, in line with FAIR principles.
+ 
+This guide will walk you through the key steps of preparing, uploading, and publishing your dataset in our repository. By following these best practices, you’ll enhance the visibility and impact of your research while meeting funder and journal requirements.
+ 
+Start with the video below for a quick overview, then proceed to the next section to learn more about the role of research data repositories. Let’s make your data work for you and the global research community!
 
 <div class="responsive-iframe-container">
     <iframe src="https://www.youtube.com/embed/DdjDSmhOa64" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
