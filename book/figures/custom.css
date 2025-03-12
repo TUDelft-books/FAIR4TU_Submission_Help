@@ -80,7 +80,10 @@ a,
     content: none !important; /* Remove pseudo-elements */
 }
 
-
+/* Make the FAIR 4TU Submission Help text smaller */
+.navbar-brand-box .site-title {
+    font-size: 0.9rem !important; /* Adjust this value as needed */
+  }
 
 
 
