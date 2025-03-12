@@ -16,6 +16,14 @@
         width: 100%;
         height: 100%;
     }
+    
+    /* Add this block to centralize the caption */
+    .caption {
+        text-align: center;
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
 </style>
 
 Welcome to this learning resource on submitting your research data to 4TU.ResearchData. Proper data submission ensures that your work remains accessible, reusable, and properly credited, in line with FAIR principles.
@@ -27,5 +35,5 @@ Start with the video below for a quick overview, then proceed to the next sectio
 <div class="responsive-iframe-container">
     <iframe src="https://www.youtube.com/embed/DdjDSmhOa64" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
-<p class="caption">"Introduction to 4TU.ResearchData, an international data repository for science, engineering and design disciplines."</p>
+<p class="caption">Introduction to 4TU.ResearchData, an international data repository.</p>
 
