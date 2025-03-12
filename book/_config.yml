@@ -20,7 +20,7 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       logo:
-        text: FAIR 4TU Submission Help
+        text: How to submit your data
         image_light: 4tu_logo.png
         image_dark: 4tu_logo.png
       repository_url: "https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help/" #add your own repo URL here
