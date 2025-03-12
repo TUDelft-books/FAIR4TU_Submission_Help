@@ -89,10 +89,10 @@ a,
 img[src*="4tu_logo.png"],
 header .logo-image,
 .navbar .navbar-brand img {
-  max-height: 150px !important; /* Make even bigger for visibility */
+  max-height: 120px !important; /* Make even bigger for visibility */
   height: auto !important;
   width: auto !important;
-  min-height: 150px !important; /* Ensure minimum size */
+  min-height: 120px !important; /* Ensure minimum size */
 }
 
 /* LOGO TEXT - Multiple selector attempts to ensure it works */
@@ -100,7 +100,7 @@ header .logo-image,
 .title.logo_title, 
 p.title.logo__title, 
 div.title.logo_title {
-  font-size: 0.6rem !important;
+  font-size: 0.8rem !important;
   line-height: 1 !important;
   max-width: 100% !important;
   transform: scale(0.8) !important;
@@ -109,18 +109,3 @@ div.title.logo_title {
   padding: 0 !important;
 }
 
-/* Additional selectors to ensure coverage */
-[class="title logo_title"],
-[class^="title logo_title"],
-*[class*="title logo_title"] {
-  font-size: 0.6rem !important;
-  line-height: 1 !important;
-}
-
-/* Make sure the parent container allows the smaller text */
-p.title.logo_title, 
-.navbar-brand-box, 
-.navbar-brand {
-  min-height: auto !important;
-  height: auto !important;
-}
