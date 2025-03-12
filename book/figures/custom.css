@@ -77,3 +77,10 @@ a,
     content: none !important; /* Remove pseudo-elements */
 }
 
+/* Change color to Orange of the left navigation bar on the left sidebar */
+nav.bd-links .current > a {
+    background-color: transparent;
+    box-shadow: inset max(3px, .1875rem, 4px) 0 0 var(--color-primary); /* Changed to your variable */
+    color: var(--color-primary); /* Changed from --pst-color-primary to your variable */
+    font-weight: 600;
+}
