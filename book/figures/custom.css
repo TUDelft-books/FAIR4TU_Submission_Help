@@ -98,7 +98,7 @@ header .logo-image,
 /* LOGO TEXT - Multiple selector attempts to ensure it works */
 /* Target the specific title class shown in the HTML */
 .title.logo_title, 
-p.title.logo_title, 
+p.title.logo__title, 
 div.title.logo_title {
   font-size: 0.6rem !important;
   line-height: 1 !important;
