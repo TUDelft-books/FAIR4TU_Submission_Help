@@ -82,9 +82,13 @@ a,
 
 /* Make the FAIR 4TU Submission Help text smaller */
 .navbar-brand-box .site-title {
-    font-size: 0.9rem !important; /* Adjust this value as needed */
+    font-size: 0.6rem !important; /* Adjust this value as needed */
   }
 
-
+/* Target specifically the logo images */
+.navbar-brand-box .logo-image[src*="4tu_logo.png"] {
+    max-height: 60px !important;
+    width: auto;
+  }
 
 
