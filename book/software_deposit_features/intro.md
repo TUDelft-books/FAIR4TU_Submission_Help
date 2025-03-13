@@ -6,7 +6,7 @@ When submitting software to 4TU.ResearchData, researchers should be aware of sev
 
 - [Git Integration](/software_deposit_features/git_integration)
 - [Versioning and Release Management](/software_deposit_features/versioning_and_release_management)
-- [DOI Assignment](https://www.doi.org/)
+- [DOI Assignment](https://www.tudelft.nl/en/library/support/library-for-researchers/publishing-outreach/research-identity/doi-for-publications)
 - [Open File Formats](/submission_workflow/supported_file_formats)
 - [Documentation and README files](/submission_workflow/data_curation.md#Metadata-Review-Process-Checklist)
 
