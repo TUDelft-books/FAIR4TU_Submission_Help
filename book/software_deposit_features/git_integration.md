@@ -10,9 +10,15 @@ Git integration can be established through the clear instructions provide by 4TU
 
 ## Uploading Software Files Using Git Integration
 
-Once you are on the 4TU.ResearchData repository upload interface, you can publish  software, including version history and related documentation, by connecting your Git repository with 4TU.ResearchData. 
+Once you are on the 4TU.ResearchData repository upload interface, you can publish software, including version history and related documentation, by connecting your Git repository with 4TU.ResearchData. 
 
-**These are the steps you need to follow: **
+**This short screencast provides you with a step-by-step demonstration on how to upload software using Git integration. 
+
+<div class="responsive-iframe-container">
+    <iframe src="https://youtu.be/NtX72arJiqg?feature=shared" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
+
+**Below is a summary of the steps you need to follow: **
 
 1. Log into the 4TU.ResearchData repository upload interface to get to ‘DASHBOARD.’ 
 
