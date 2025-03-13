@@ -15,7 +15,7 @@ Once you are on the 4TU.ResearchData repository upload interface, you can publis
 **This short screencast provides you with a step-by-step demonstration on how to upload software using Git integration. 
 
 <div class="responsive-iframe-container">
-    <iframe src="https://youtu.be/NtX72arJiqg?feature=shared" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+    <iframe src="https://youtu.be/embed/NtX72arJiqg" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 
 **Below is a summary of the steps you need to follow: **
