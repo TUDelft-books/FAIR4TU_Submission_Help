@@ -93,7 +93,6 @@ nav.bd-links .current > a {
    font-size: 0.9rem !important;
    line-height: 1 !important;
    max-width: 100% !important;
-   /* transform: scale(0.8) !important; */
    transform-origin: left center !important;
    margin: 0 !important;
    padding: 0 !important;
