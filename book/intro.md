@@ -1,5 +1,5 @@
 (intro)=
-# How to Submit Your Data
+# How (and Why) to Share Your Data
 
 <style>
     .responsive-iframe-container {
