@@ -84,3 +84,17 @@ nav.bd-links .current > a {
     color: var(--color-primary); /* Changed from --pst-color-primary to your variable */
     font-weight: 600;
 }
+
+/* LOGO TEXT - Multiple selector attempts to ensure it works */
+ /* Target the specific title class shown in the HTML */
+ .title.logo_title, 
+ p.title.logo__title, 
+ div.title.logo_title {
+   font-size: 0.8rem !important;
+   line-height: 1 !important;
+   max-width: 100% !important;
+   /* transform: scale(0.8) !important; */
+   transform-origin: left center !important;
+   margin: 0 !important;
+   padding: 0 !important;
+ }
