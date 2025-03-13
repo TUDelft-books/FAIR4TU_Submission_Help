@@ -46,7 +46,7 @@ In this case, the uploaders wanted the EULA recorded in a separate entry:
 
 Raman, Chirag; Vargas Quiros, Jose; Tan, Stephanie; Islam, Ashraful; Gedik, Ekin et. al. (2022): EULA for ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild. Version 2. 4TU.ResearchData. https://doi.org/10.4121/2001619
 
-## Personal & Sensitive Data
+## [Personal & Sensitive Data](https://utrechtuniversity.github.io/dataprivacyhandbook/)
 *(And what’s the difference)*
 
 When uploading data to the 4TU.ResearchData Repository, researchers must distinguish between personal and sensitive data to comply with legal and ethical standards while fostering responsible research.
