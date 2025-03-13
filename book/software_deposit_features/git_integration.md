@@ -1,3 +1,28 @@
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+    }
+
+    .responsive-iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    /* Add this block to centralize the caption */
+    .caption {
+        text-align: center;
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
+</style>
+
 # Git Integration for Software Uploads
 
 The 4TU.ResearchData repository provides seamless Git integration regardless of the code-hosting platform used (e.g. GitHub, GitLab etc.). This integration allows researchers to efficiently manage software submissions while leveraging Git’s powerful version control capabilities, enhancing the visibility and credibility of their contributions. 
@@ -15,7 +40,7 @@ Once you are on the 4TU.ResearchData repository upload interface, you can publis
 **This short screencast provides you with a step-by-step demonstration on how to upload software using Git integration. 
 
 <div class="responsive-iframe-container">
-    <iframe src="https://youtu.be/embed/NtX72arJiqg" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+    <iframe src="https://youtube/embed/NtX72arJiqg" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 
 **Below is a summary of the steps you need to follow: **
