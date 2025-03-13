@@ -43,10 +43,9 @@ Once you are on the 4TU.ResearchData repository upload interface, you can publis
     <iframe src="https://youtube.com/embed/NtX72arJiqg" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 
+<br>
 
-
-
-**These are the steps you need to follow:**
+#### These are the steps you need to follow: 
 
 1. Log into the 4TU.ResearchData repository upload interface to get to ‘DASHBOARD.’ 
 
