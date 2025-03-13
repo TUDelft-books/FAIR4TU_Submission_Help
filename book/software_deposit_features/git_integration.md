@@ -33,7 +33,7 @@ Git integration can be established through the clear instructions provide by 4TU
 
 - **Linking:** Published code on 4TU can be linked to the ‘live’ version on your code-hosting platform.
 
-# Uploading Software Files Using Git Integration
+## Uploading Software Files Using Git Integration
 
 Once you are on the 4TU.ResearchData repository upload interface, you can publish software, including version history and related documentation, by connecting your Git repository with 4TU.ResearchData. 
 
