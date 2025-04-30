@@ -8,7 +8,7 @@
 
 ## Repository Infrastructure
 
-The repository runs on a codebase that is available as free and open source software. It is called Djehuty and is available [here](https://github.com/4TUResearchData/djehuty). As Free and Open Source Software system, Djehuty allows developers from various backgrounds to contribute, which leads to an open, flexible and sustainable ecosystem, to enable the sharing, reuse and preservation of research data and software.Crucial for the repository is the use of open protocols and standards to promote interoperability between data and systems. Moreover, open protocols foster collaboration and innovation, and promote transparency. 
+The repository runs on a codebase that is available as free and open source software. It is called Djehuty and is available [here](https://github.com/4TUResearchData/djehuty). As Free and Open Source Software system, Djehuty allows developers from various backgrounds to contribute, which leads to an open, flexible and sustainable ecosystem, to enable the sharing, reuse and preservation of research data and software. The repository uses open protocols and standards to promote interoperability between data and systems. Moreover, open protocols foster collaboration and innovation, and promote transparency. 
 
 ## Member Institutions
 
