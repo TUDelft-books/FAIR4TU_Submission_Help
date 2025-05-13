@@ -6,24 +6,24 @@ Reusing your data not only amplifies its impact but also contributes to the adva
 
 ## Guidelines for Creating an Effective README File
 
-#1. One README for each dataset:
+**1. One README for each dataset:**
 * Name the file README (NOT readme, read_me, ABOUT, etc.)
 * Write your README document as a plain text file (.txt)
 * Save as README.txt or README.md when writing in [Markdown](https://en.wikipedia.org/wiki/Markdown).
 * Use README.pdf when text formatting is important for your file.
 
-#2. Title and Project Description 
+**2. Title and Project Description**
 * Start with a clear title that indicates the theme of your project.
 * Provide a brief overview of the project's objectives and significance.
 * Include relevant contextual details for the dataset or software. 
 
-#3. Contents Overview:
+**3. Contents Overview:**
 * List all files included in the data package.
 * Specify the data contained in each file or group of similar files.
 * For multiple files that relate to each other, state the relationship between the files or describe the file structure that holds the dataset.
 * Include contact information in case users have questions regarding data files.
 
-#4. Detailed [Metadata](/submission_workflow/data_curation.md#Metadata-Review-Process-Checklist):
+**4. Detailed [Metadata](/submission_workflow/data_curation.md#Metadata-Review-Process-Checklist):**
 * Describe each dataset with relevant metadata, including:
     * Variable names.
     * Units of measurement.
@@ -38,12 +38,12 @@ Reusing your data not only amplifies its impact but also contributes to the adva
 * Describe any quality-assurance procedures performed on the data.
 * Define codes or symbols used to note or characterize low quality/questionable/outliers that people should be aware of.
 
-#5. Sharing and Access Information:
+**5. Sharing and Access Information:**
 * State the licensing terms you selected when submitting your data to the repository.
 * This license is displayed on the metadata and informs users of their rights and restrictions.
 * Read further information on license types.
 
-#6. For Software:
+**6. For Software:**
 * Consider including a user guide with detailed instructions on installation and usage. This should include:
     * Dependencies or prerequisites that are required.
     * Consider using a dependency manager such as conda or pip for Python.
