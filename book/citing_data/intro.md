@@ -22,7 +22,7 @@ Specifically for software and code, 4TU.ResearchData supports the Citation File 
 
 ## Why does citation matter?
 
-By depositing your research outputs in 4TU.ResearchData, you've already taken a significant step towards open science and making your work [FAIR](/introduction/fair_data_and_software). Each dataset you've uploaded receives a unique [Digital Object Identifier (DOI)](https://www.doi.org/), creating a permanent, stable link that allows others to consistently reference your work.
+By depositing your research outputs in 4TU.ResearchData, you've already taken a significant step towards open science and making your work [FAIR](/introduction/fair_data_and_software). Each dataset you've uploaded receives a unique [Digital Object Identifier (DOI)](https://www.doi.org/), creating a permanent, stable link that allows others to consistently refer to your work.
 
 ## Citation Best Practices 
 
