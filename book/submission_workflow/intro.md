@@ -25,7 +25,7 @@
     }
 </style>
 
-Thinking ahead about the data submission process is crucial for researchers aiming to maximize the impact and accessibility of their work. By envisioning the workflow in advance, you can ensure that your data is well-organized, thoroughly documented, and compliant with best practices. This proactive approach not only enhances the findability and reusability of your research outputs but also saves time and effort during the submission process.
+In order to maximize the impact and accessibility of your research, it is crucial that you think ahead and plan the data submission process. By envisioning the workflow in advance, you can ensure that your data is well-organized, thoroughly documented, and compliant with best practices. This proactive approach not only enhances the findability and reusability of your research outputs but also saves time and effort during the submission process.
 
 **Account Creation**
 * Navigate to the repository website
