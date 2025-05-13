@@ -74,7 +74,7 @@ How to work with NetCDF and OPeNDAP
     <iframe src="https://www.youtube.com/embed/vVhH3kp9m4M" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 
-
+</style>
 
 How to use NetCDF and OPeNDAP
 
