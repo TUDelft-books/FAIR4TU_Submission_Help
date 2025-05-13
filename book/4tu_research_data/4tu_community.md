@@ -13,4 +13,4 @@ By becoming part of the 4TU.ResearchData community, you get access to a variety 
 - **Community-Driven Improvement:** Your feedback matters! Help shape the repository’s future by suggesting new features or improvements based on your experience.
 - **Diverse Expertise Access:** Work alongside professionals from various scientific domains, gaining fresh perspectives that can enhance your own research.
 
-By being part of the 4TU.ResearchData community, you're not only preserving your data for the long run, you’re also boosting your research’s visibility. This enables you to access a wealth of resources and play an active role in shaping the future of data sharing.
+By being part of the 4TU.ResearchData community, you're not only preserving your data for the long run, you’re also boosting the visibility of your research. This enables you to access a wealth of resources and play an active role in shaping the future of data sharing.
