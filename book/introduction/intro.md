@@ -11,7 +11,7 @@ Research data repositories are digital platforms that store, manage, and dissemi
 
 ## Benefits for Researchers
 
-### [Fair Principles](/introduction/fair_data_and_software)
+### [FAIR Principles](/introduction/fair_data_and_software)
 Repositories make data Findable, Accessible, Interoperable, and Reusable which enables researchers to comply with [funder and journal data-sharing requirements](/introduction/funders_and_journals).
 
 ### Attribution
