@@ -28,7 +28,7 @@
 
 Welcome to this learning resource on submitting your research data to 4TU.ResearchData. Proper data submission ensures that your work remains accessible, reusable, and citeable, in line with [FAIR](https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair) principles.
  
-This guide will walk you through the key steps of preparing, uploading, and publishing your dataset in our repository. By following these best practices, you’ll enhance the visibility and impact of your research while meeting funder and journal requirements.
+This guide will walk you through the key steps of preparing, uploading, and publishing your dataset in our repository. By following these best practices, you’ll enhance the visibility and impact of your research while meeting institutional, funder, and journal requirements.
  
 Start with the video below for a quick overview, then proceed to the next section to learn more about the role of research data repositories. Let’s make your data work for you and the global research community!
 
