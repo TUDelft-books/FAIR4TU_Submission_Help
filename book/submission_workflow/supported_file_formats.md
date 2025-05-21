@@ -1,4 +1,4 @@
-# NetCDF, OPeNDAP, IIIF & Supported File Formats
+# Supported File Formats
 
 <style>
     .responsive-iframe-container {
