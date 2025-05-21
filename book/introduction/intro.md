@@ -15,7 +15,7 @@ Research data repositories are digital platforms that store, manage, and dissemi
 Repositories make data Findable, Accessible, Interoperable, and Reusable which enables researchers to comply with [funder and journal data-sharing requirements](/introduction/funders_and_journals).
 
 ### Attribution
-[Digital Object Identifiers (DOIs)](/citing_data/dois_and_persistent_identifiers) ensure proper credit for data contributors.
+[Digital Object Identifiers (DOIs)](https://www.doi.org/) ensure proper credit for data contributors.
 
 ### Impact on Scientific Progress
 Scientific transparency and reproducibility are supported by centralizing and organizing research outputs because data repositories create an environment where data can be easily discovered, analyzed, and repurposed. This also catalyzes new discoveries and innovations across various fields of study.
