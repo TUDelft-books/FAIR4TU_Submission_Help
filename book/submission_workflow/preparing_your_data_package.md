@@ -17,7 +17,7 @@ Follow these guidelines to develop a comprehensive data package:
 * Include metadata that describes variables, units, and any specific methodologies used.
 
 **4. Versioning:**
-* Ensure that you have selected the correct version of the datacode that should be published. 
+* Ensure that you have selected the correct version of the data code that should be published. 
 
 **5. Format consistency:**
 * Use standard, open [file formats](https://data.4tu.nl/s/documents/Preferred_File_Formats_2023.pdf). Using the recommended file formats means you get the benefit of the preservation level offered by 4TU.
