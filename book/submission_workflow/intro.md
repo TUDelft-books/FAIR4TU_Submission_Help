@@ -30,8 +30,8 @@ In order to maximize the impact and accessibility of your research, it is crucia
 **Account Creation**
 * Navigate to the repository website
 * Register either by:
-    * SURFconext
-    * eduID 
+    * [SURFconext](https://www.surf.nl/en/services/identity-access-management/surfconext)
+    * [eduID](https://eduid.nl/en/)
 * Complete user profile
 
 [**Initial Dataset Preparation**](/submission_workflow/preparing_your_data_package)
