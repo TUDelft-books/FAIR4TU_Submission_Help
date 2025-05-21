@@ -1,8 +1,8 @@
-# What is FAIR Research Data and Software?
+# What is [FAIR](https://fair-software.nl/) Research Data and Software?
 
 The [FAIR Principles](https://www.nature.com/articles/sdata201618) describe how data can be organized and documented. FAIR is the ideal standard not only for other (human) users but also for computer systems {cite}`wilkinson2016fair` . 
 
-## FAIR stands for:
+## [FAIR](https://fair-software.nl/) stands for:
 
 ### Findable
 - Discoverable data and software with metadata and a [persistent identifier](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs). 
