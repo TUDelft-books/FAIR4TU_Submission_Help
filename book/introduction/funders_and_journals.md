@@ -24,5 +24,5 @@ Publishers increasingly require data availability statements and citations. Such
 - Include proper [citations](/citing_data/intro.md) for datasets and software.
 - Ensure data is accessible to editors and reviewers during submission.
 
-You should make it clear in your DMP that your dataset(s) or software will be made available on 4TU.ResearchData; this can often satisfy both funder and journal requirements. 
+You should make it clear in your DMP which of your dataset(s) or software will be made available on 4TU.ResearchData; this can often satisfy both funder and journal requirements.
 
