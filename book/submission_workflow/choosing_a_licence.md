@@ -1,6 +1,6 @@
 # Choosing a Licence
 
-You need to choose an appropriate [licence](https://choosealicense.com/) for datasets and software that you upload to 4TU.ResearchData because this defines how others can use and build upon your research. What other researchers may—or may not—do with your research data and software is an important consideration. 
+You need to choose an appropriate [licence](https://choosealicense.com/) for datasets and software that you upload to 4TU.ResearchData because this defines how others can use and build upon your research. What other researchers may—or may not—do with your research data and software is an important consideration. You can find further guidance and information on licence selection at the following [link](https://creativecommons.org/chooser/). 
 
 The repository provides several options for data and software. 
 
