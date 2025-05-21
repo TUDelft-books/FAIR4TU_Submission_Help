@@ -1,6 +1,6 @@
 # 4TU.ResearchData Community
 
-When you upload your research data to 4TU.ResearchData, you’re joining a community that values long-term data preservation and accessibility. Your research will be stored securely, making it easy for others to discover, use, and build upon in the future. 
+When you upload your research data to 4TU.ResearchData, you’re joining a community that values long-term data preservation and accessibility. Your research data and software will be stored securely, making it easy for others to discover, use, and build upon in the future. 
 
 4TU is the perfect place to develop your skills and build a network no matter regardless of the stage you're at in your research. Even if you haven't yet reached a stage where you need to submit your data and/or software to a repository, you can still benefit from support through training sessions, events, and opportunities to connect with experienced researchers.
 
