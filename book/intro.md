@@ -30,7 +30,7 @@ Welcome to this learning resource on submitting your research data to 4TU.Resear
  
 This guide will walk you through the key steps of preparing, uploading, and publishing your dataset in our repository. By following these best practices, you’ll enhance the visibility and impact of your research while meeting institutional, funder, and journal requirements.
  
-Start with the video below for a quick overview, then proceed to the next section to learn more about the role of research data repositories. Let’s make your data work for you and the global research community!
+This resource is designed for flexibility; feel free to dip in and out. You might start with the video below for a quick overview, or explore sections that cover the role of research data repositories, guidance for submitting data and software, step-by-step instructions and checklists. Caring for your research data is an important part of responsible and impactful research.
 
 <div class="responsive-iframe-container">
     <iframe src="https://www.youtube.com/embed/DdjDSmhOa64" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
