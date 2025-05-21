@@ -8,8 +8,7 @@ Reusing your data not only amplifies its impact but also contributes to the adva
 
 **1. One README for each dataset:**
 * Name the file README (NOT readme, read_me, ABOUT, etc.)
-* Write your README document as a plain text file (.txt)
-* Save as README.txt or README.md when writing in [Markdown](https://en.wikipedia.org/wiki/Markdown).
+* Write your README as a plain text file and save it as README.txt or README.md if using [Markdown](https://en.wikipedia.org/wiki/Markdown)..
 * Use README.pdf when text formatting is important for your file.
 
 **2. Title and Project Description**
