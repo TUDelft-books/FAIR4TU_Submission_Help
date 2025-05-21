@@ -2,7 +2,7 @@
 
 ## Key features of 4TU.ResearchData include:
 
-- [DOI assignment](https://www.tudelft.nl/en/library/support/library-for-researchers/publishing-outreach/research-identity/doi-for-publications)
+- [DOI] assignment(https://www.doi.org/the-identifier/what-is-a-doi/)
 - [Comprehensive metadata](/submission_workflow/data_curation.md#metadata-review-process)
 - [Support for various file formats](/submission_workflow/supported_file_formats)
 - [Software and code repository](/software_deposit_features/intro.md) with [Git integration](/software_deposit_features/git_integration)
