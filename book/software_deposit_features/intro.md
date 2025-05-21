@@ -1,4 +1,4 @@
-# 4TU.ResearchData Software Deposit Features
+# Software Deposit Features
 
 Uploading software and code offers researchers significant benefits, including long-term preservation, increased visibility, and the ability to obtain a Digital Object Identifier (DOI) for their work. 4TU.ResearchData provides a citable, persistent identifier (PID) that enhances the discoverability and recognition of software contributions. Additionally, 4TU.ResearchData is CoreTrustSeal certified, providing assurance about the reliability and quality of both data and software deposited within the repository.
 
