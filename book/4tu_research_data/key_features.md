@@ -8,7 +8,7 @@
 - [Software and code repository](/software_deposit_features/intro.md) with [Git integration](/software_deposit_features/git_integration)
 - [Multiple access levels](/submission_workflow/setting_access_levels)
 - [Data curation](/submission_workflow/data_curation)
-- Open-source platform [Djehuty](https://github.com/4TUResearchData/djehuty)
+- Open-source platform [Djehuty](https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/4tu_research_data/how_to_contribute.html)
 - [Long-term preservation](/data_preservation/intro.md)
 - [Community-driven development](/4tu_research_data/4tu_community)
 
