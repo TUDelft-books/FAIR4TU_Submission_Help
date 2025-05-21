@@ -2,7 +2,7 @@
 
 When you upload your research data to 4TU.ResearchData, you’re joining a community that values long-term data preservation and accessibility. Your research will be stored securely, making it easy for others to discover, use, and build upon in the future. 
 
-4TU is the perfect place to develop your skills and build a network no matter what stage you're at in your career as a researcher. Even if you haven't yet reached a stage where you need to submit your data and/or software to a repository, you can still benefit from support through training sessions, events, and opportunities to connect with experienced researchers.
+4TU is the perfect place to develop your skills and build a network no matter regardless of the stage you're at in your research. Even if you haven't yet reached a stage where you need to submit your data and/or software to a repository, you can still benefit from support through training sessions, events, and opportunities to connect with experienced researchers.
 
 By becoming part of the 4TU.ResearchData community, you get access to a variety of opportunities and resources to support your research journey:
 - **Funding Opportunities:** Apply for financial support, like the €5,000 per year from the [FAIR Data Fund](https://community.data.4tu.nl/2024/10/23/fair-data-fund-use-case-defining-a-domain-relevant-community-metadata-standard-for-drone-uav-data-and-a-tool-to-format-it/), to help make your data [FAIR](/introduction/fair_data_and_software).
