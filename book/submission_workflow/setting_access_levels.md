@@ -73,7 +73,7 @@ Sensitive data is a [GDPR](https://gdpr.eu/)-defined subcategory of personal dat
 Personal data must always be under restricted access, but metadata for all datasets remains publicly available to ensure discoverability. 
 For personal data, researchers must:
 * Anonymize data to irreversibly remove identifiable information and prevent individual identification. It can then be published open access.
-* If anonymization is not possible, consider replacing identifiable information with pseudonyms, while being aware that this still allows for potential re-identification.
+* If full anonymisation is not possible, replace identifiable information with pseudonyms. Pseudonymized data can still potentially be linked back to individuals if additional information is available, so it must be handled with the same care as identifiable data.
 * Ensure pseudonymized data is shared only under restricted access and does not include sensitive data or special categories of personal data.
 
 Additional information about handling personal and sensitive data can be found in this [link](https://utrechtuniversity.github.io/dataprivacyhandbook/).
