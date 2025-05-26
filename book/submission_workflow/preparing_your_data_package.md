@@ -24,9 +24,14 @@ Follow these guidelines to develop a comprehensive data package:
 * Maintain consistency in formatting across all files.
 
 **6. Quality control:**
+* Remove unneeded data.
+* Make sure that personal information is either anonymized, pseudonymized, or that full consent for its use have been provided.
+* Use consistent and meaningful file names that reflect the file content, avoiding spaces and special characters.
+* Choose standard, exchangeable or open file formats for long-term sustainability and accessibility.
+* If your data consists of many files, consider grouping them in zip bundles according to their content or file format, to make upload and download easier.
 * Review all files for errors or inconsistencies before submission.
-* Validate data integrity to ensure reliability.
-
+* Click [here](https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf) for more information. 
+  
 **7. Separate [sensitive data](/submission_workflow/setting_access_levels.md#personal--sensitive-data):**
 * Identify any confidential or personal information and segregate it from the main dataset.
 * Ensure compliance with privacy regulations.
