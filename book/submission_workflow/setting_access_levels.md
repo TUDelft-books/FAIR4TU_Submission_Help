@@ -42,7 +42,7 @@ In this case, the uploaders wanted the EULA recorded in a separate entry:
 
 Raman, Chirag; Vargas Quiros, Jose; Tan, Stephanie; Islam, Ashraful; Gedik, Ekin et. al. (2022): EULA for ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild. Version 2. 4TU.ResearchData. https://doi.org/10.4121/2001619
 
-## [Personal & Sensitive Data](https://utrechtuniversity.github.io/dataprivacyhandbook/)
+## [Personal & Sensitive Data](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/privacy-and-personal-data/what-are-personal-data)
 *(And what’s the difference)*
 
 When uploading data to the 4TU.ResearchData Repository, researchers must distinguish between personal and sensitive data to comply with legal and ethical standards while fostering responsible research. The relevant standards relate to European data protection law and are encapsulated in the General Data Protection Regulation [(GDPR)](https://gdpr.eu/). Compliance with this law is required regardless of where your institution is based or where the research was conducted.
@@ -75,5 +75,7 @@ For personal data, researchers must:
 * Anonymize data to irreversibly remove identifiable information and prevent individual identification. It can then be published open access.
 * If anonymization is not possible, consider replacing identifiable information with pseudonyms, while being aware that this still allows for potential re-identification.
 * Ensure pseudonymized data is shared only under restricted access and does not include sensitive data or special categories of personal data.
+
+Additional information about handling personal and sensitive data can be found in this [link](https://utrechtuniversity.github.io/dataprivacyhandbook/).
 
 You can comply and contribute to a responsible research environment by ensuring you follow GDPR and institutional guidelines on handling personal data. Always double-check to ensure you have selected appropriate access levels to balance openness with privacy considerations. 
