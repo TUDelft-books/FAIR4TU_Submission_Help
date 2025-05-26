@@ -8,7 +8,7 @@ Selecting the appropriate access level for datasets and software in 4TU.Research
 
 **2. Embargoed Access:** Temporarily restricts access for a specified period. This is useful when delaying publication is necessary, such as for patent filing or pending journal article publication. We recommend that researchers only place embargo access on files rather than on the entire upload. However, it is possible to place a full embargo on your data set or software. See below for examples.
 
-**3. [Restricted Access](https://data.4tu.nl/s/documents/4TU.ResearchData_Restricted_Access_2023.pdf):** Limits access to authorized users only. Appropriate for [personal data](#personal--sensitive-data) that cannot be fully anonymized or when contractual obligations require controlled access. See below for examples. 
+**3. [Restricted Access](https://data.4tu.nl/s/documents/4TU.ResearchData_Restricted_Access_2023.pdf):** Limits access to authorized users only. Appropriate for [personal data](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/privacy-and-personal-data/what-are-personal-data) that cannot be fully anonymized or when contractual obligations require controlled access. See below for examples. 
 
 **4. Metadata-Only:** Creates a record with descriptive information but without the actual data files because data is stored securely elsewhere. More information is available [here]( https://communities.springernature.com/posts/metadata-only-records-what-are-they-and-why-are-they-useful?badge_id=269-springer-nature). 
 
