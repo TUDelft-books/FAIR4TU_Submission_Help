@@ -14,6 +14,8 @@ The repository runs on a codebase that is available as free and open source soft
 
 4TU.ResearchData is led by the 4TU.ResearchData Consortium, which consists of [Delft University of Technology](https://www.tudelft.nl), [Eindhoven University of Technology](https://www.tue.nl/en), [University of Twente](https://www.utwente.nl/en) and [Wageningen University & Research](https://www.wur.nl/en.htm).
 
+While governed by these institutions, the repository is open to all researchers worldwide in science, engineering, and design disciplines, offering data curation, sharing, long-term access, and preservation services to anyone, anywhere. 
+
 ## Storage of Datasets
 
 4TU.ResearchData is hosted and managed by the TU Delft Library, where datasets are locally stored on TU Delft servers, and is governed by TU Delft’s legal statements. 4TU.ResearchData staff is responsible for managing and maintaining the data repository, including its preservation policy to guarantee long-term usability of the data it holds.
