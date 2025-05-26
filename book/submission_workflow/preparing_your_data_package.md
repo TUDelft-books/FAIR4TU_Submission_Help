@@ -25,7 +25,7 @@ Follow these guidelines to develop a comprehensive data package:
 
 **6. Quality control:**
 * Remove unneeded data.
-* Make sure that personal information is either anonymized, pseudonymized, or that full consent for its use have been provided.
+* Make sure that personal information is either anonymized, pseudonymized and includes full consent for its use.
 * Use consistent and meaningful file names that reflect the file content, avoiding spaces and special characters.
 * Choose standard, exchangeable or open file formats for long-term sustainability and accessibility.
 * If your data consists of many files, consider grouping them in zip bundles according to their content or file format, to make upload and download easier.
