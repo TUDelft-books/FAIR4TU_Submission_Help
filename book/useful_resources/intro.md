@@ -36,7 +36,7 @@ https://github.com/TeachBooks/files-and-folders/
 Sensitive and Private Data:
 https://utrechtuniversity.github.io/dataprivacyhandbook/
 
-Finnish Social Sciences Data Archive: anonymisation plan
+Finnish Social Sciences Data Archive
 https://www.fsd.tuni.fi/en/services/data-management-guidelines/anf-template.pdf
 
 Persistent Identifiers:
