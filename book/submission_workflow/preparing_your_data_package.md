@@ -31,9 +31,5 @@ Follow these guidelines to develop a comprehensive data package:
 * If your data consists of many files, consider grouping them in zip bundles according to their content or file format, to make upload and download easier.
 * Review all files for errors or inconsistencies before submission.
 * Click [here](https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf) for more information. 
-  
-**7. Separate [sensitive data](/submission_workflow/setting_access_levels.md#personal--sensitive-data):**
-* Identify any confidential or personal information and segregate it from the main dataset.
-* Ensure compliance with privacy regulations.
 
 By following these steps, you will create a comprehensive data package that enhances discoverability and reusability of your research outputs, facilitating long-term [preservation](/data_preservation/intro) in the 4TU.ResearchData Repository. 
