@@ -49,7 +49,7 @@ Raman, Chirag; Vargas Quiros, Jose; Tan, Stephanie; Islam, Ashraful; Gedik, Ekin
 ## [Personal & Sensitive Data](https://utrechtuniversity.github.io/dataprivacyhandbook/)
 *(And what’s the difference)*
 
-When uploading data to the 4TU.ResearchData Repository, researchers must distinguish between personal and sensitive data to comply with legal and ethical standards while fostering responsible research. The relevant standards relate to European data protection law and are encapsulated in the General Data Protection Regulation ([GDPR])(https://gdpr.eu/). Compliance with this law is required regardless of where your institution is based or where the research was conducted.
+When uploading data to the 4TU.ResearchData Repository, researchers must distinguish between personal and sensitive data to comply with legal and ethical standards while fostering responsible research. The relevant standards relate to European data protection law and are encapsulated in the General Data Protection Regulation [(GDPR)](https://gdpr.eu/). Compliance with this law is required regardless of where your institution is based or where the research was conducted.
 
 Personal data refers to any information identifying or potentially identifying a natural person, such as:
 
