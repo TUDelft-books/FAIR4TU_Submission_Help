@@ -1,4 +1,4 @@
-# Additional useful information can be found via the following links. 
+# Additional sources and links 
 
 **Please feel free to contribute!**
 
