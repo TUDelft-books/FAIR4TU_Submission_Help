@@ -1,6 +1,6 @@
 # Types of Access
 
-Selecting the appropriate access level for datasets and software in 4TU.ResearchData is crucial, as it determines how others can interact with the research outputs. Researchers must carefully consider their obligations to research partners, especially those from the commercial sector, when making this decision.
+Selecting the appropriate access level for datasets and software in 4TU.ResearchData is essential, as it defines how others can interact with your research outputs. Researchers must balance openness with necessary restrictions, considering the nature of the data, any agreements with partners, particularly from the commercial sector, and any ethical or legal obligations. Appropriate and well-considered access decisions help ensure your data is as open as possible while respecting your responsibilities.
 
 **4TU.ResearchData offers four access levels:**
 
@@ -17,10 +17,6 @@ These access levels are elaborated on in [page 4 of this document](https://data.
 ## Metadata and Discoverability 
 
 Regardless of the chosen access level, metadata is always openly accessible, ensuring discoverability of the research.
-
-## Considerations when Choosing Access Level
-
-When uploading, you should select an access level that balances openness with any necessary restrictions. Consider the nature of your data, any agreements you’ve made  with partners, and potential ethical or legal implications. By giving due attention to this choice, you can ensure your data is as open as possible while respecting your obligations.
 
 ### Example datasets
 
