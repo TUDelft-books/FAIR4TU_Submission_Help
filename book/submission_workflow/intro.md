@@ -34,7 +34,7 @@ In order to maximize the impact and accessibility of your research, it is crucia
     * [eduID](https://eduid.nl/en/)
 * Complete user profile
 
-[**Initial Dataset Preparation**](/submission_workflow/preparing_your_data_package)
+[**Preparing Your Data Package**](/submission_workflow/preparing_your_data_package)
 * Organize research data files.
 * Ensure preservation-friendly formats.
 * Verify data integrity and completeness.
