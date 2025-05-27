@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: introduction/intro.md
+    - file: I. Start Here: Understand the Context /intro.md
       sections:
       - file: introduction/fair_data_and_software.md
       - file: introduction/funders_and_journals.md
