@@ -1,6 +1,6 @@
 # Introduction: What is a Research Data Repository?
 
-Research data repositories are digital platforms that store, manage, and disseminate valuable research data. These repositories are not mere storage units. They are designed to make research [FAIR](/introduction/fair_data_and_software), foster innovation and accelerate scientific progress.
+Research data repositories are digital platforms that curate, manage, disseminate, and preserve valuable research data. These repositories are not mere storage units. They are designed to make research [FAIR](/introduction/fair_data_and_software), foster innovation and accelerate scientific progress.
 
 ## Key Functions of Research Data Repositories
 
@@ -15,7 +15,7 @@ Research data repositories are digital platforms that store, manage, and dissemi
 Repositories make data Findable, Accessible, Interoperable, and Reusable which enables researchers to comply with [funder and journal data-sharing requirements](/introduction/funders_and_journals).
 
 ### Attribution
-[Digital Object Identifiers (DOIs)](https://www.doi.org/) ensure proper credit for data contributors.
+Citing data using [Digital Object Identifiers (DOIs)](https://www.doi.org/) ensures proper credit for data contributors.
 
 ### Impact on Scientific Progress
 Scientific transparency and reproducibility are supported by centralizing and organizing research outputs because data repositories create an environment where data can be easily discovered, analyzed, and repurposed. This also catalyzes new discoveries and innovations across various fields of study.
