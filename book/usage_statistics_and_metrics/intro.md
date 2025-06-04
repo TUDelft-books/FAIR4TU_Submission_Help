@@ -16,7 +16,7 @@ For the scientific community, these metrics:
 - Encourage data reuse and collaboration
 - Help identify emerging research trends
 
-Moreover, 4TU.ResearchData provides ready-to-use [citations](/citing_data/intro) for each dataset, making it easier for others to properly credit your work. This practice not only ensures you receive due recognition but also helps establish data sharing as a valued scholarly activity.
+Moreover, 4TU.ResearchData provides ready-to-use [citations](/citing_data/intro) for each dataset, making it easier for others to properly cite your work. This practice not only ensures you receive due recognition but also helps establish data sharing as a valued scholarly activity.
 
 By leveraging 4TU.ResearchData's metrics and tracking capabilities, you're not just sharing your research outputs – you're actively participating in a data-driven ecosystem that amplifies your impact and advances scientific progress.
 
