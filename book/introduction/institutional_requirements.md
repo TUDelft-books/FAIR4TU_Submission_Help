@@ -2,7 +2,7 @@
 
 When uploading datasets and software to the 4TU.ResearchData repository, you should check to ensure you have complied with the policies of your institution. These policies  are established to support responsible data management, ensuring that research data is managed effectively from creation to preservation, and aligns with [FAIR](introduction/fair_data_and_software). 
 
-It is recommended that you consult our institution’s Data Steward or other research support staff to ensure you are using the appropriate templates and institutional processes. This is particularly important when creating a Data Management Plan (DMP) or sharing data and code.
+It is recommended that you consult our institution’s **Data Steward** or other research support staff to ensure you are using the appropriate templates and institutional processes. This is particularly important when creating a Data Management Plan (DMP) or sharing data and code.
 
 ## Does your institution ask for the following? 
 
