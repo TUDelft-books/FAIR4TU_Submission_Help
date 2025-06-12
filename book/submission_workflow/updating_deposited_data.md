@@ -33,4 +33,11 @@ This means DOIs are versioned and appear as follows:
 
 </center>
 
+**If you'd prefer to see the update process in action, this short screencast walks you through each of the steps described above.**
+
+<div class="responsive-iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-r8CYs5ggUo?si=_xFGmPmoaC4ZLiHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 By following these steps, researchers can ensure their datasets remain current and useful for future research endeavors while maintaining compliance with repository standards.
