@@ -1,6 +1,6 @@
 # Types of Access
 
-Selecting the appropriate access level for datasets and software in 4TU.ResearchData is essential, as it defines how others can interact with your research outputs. Researchers must balance openness with necessary restrictions, considering the nature of the data, any agreements with partners, particularly from the commercial sector, and any ethical or legal obligations. Appropriate and well-considered access decisions help ensure your data is as open as possible while respecting your responsibilities.
+Selecting the appropriate access level for datasets and software in 4TU.ResearchData is essential, as it defines how others can interact with your research outputs. As a researcher, you must balance openness with necessary restrictions, considering the nature of the data, any agreements with partners, particularly from the commercial sector, and any ethical or legal obligations. Appropriate and well-considered access decisions help ensure your data is as open as possible while respecting your responsibilities.
 
 **4TU.ResearchData offers four access levels:**
 
