@@ -30,9 +30,6 @@ https://fairsfair.gitbook.io/fair-teaching-handbook/0lessonplans
 Licences:
 https://choosealicense.com/
 
-Files and Folders:
-https://github.com/TeachBooks/files-and-folders/
-
 Sensitive and Private Data:
 https://utrechtuniversity.github.io/dataprivacyhandbook/
 
