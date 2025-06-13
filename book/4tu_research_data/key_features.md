@@ -1,7 +1,5 @@
 # Key Features of 4TU.ResearchData
 
-## Key features of 4TU.ResearchData include:
-
 - [DOI](https://www.doi.org/the-identifier/what-is-a-doi/) assignment
 - [Comprehensive metadata](/submission_workflow/data_curation.md#metadata-review-process)
 - [Support for various file formats](/submission_workflow/supported_file_formats)
