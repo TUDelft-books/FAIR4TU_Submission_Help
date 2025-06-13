@@ -1,4 +1,4 @@
-# Citing Data
+# Data Citation
 
 Now that you've uploaded your research data, software, and code, it's crucial to understand how to ensure proper citation and maximize the impact of your work.
 
