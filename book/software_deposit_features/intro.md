@@ -10,4 +10,4 @@ When submitting software to 4TU.ResearchData, you should be aware of several key
 - [Open File Formats](/submission_workflow/supported_file_formats)
 - [Documentation and README files](/submission_workflow/data_curation.md#Metadata-Review-Process-Checklist)
 
-Before uploading, you should also check their [institutional research software policies](/introduction/institutional_requirements) to ensure compliance with any specific guidelines or requirements related to software sharing and documentation. 
+Prior to uploading your software and code, be sure to check your [institution's research software policies](/introduction/institutional_requirements) to ensure compliance with any specific guidelines or requirements related to software sharing and documentation. 
