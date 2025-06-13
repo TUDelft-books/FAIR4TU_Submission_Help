@@ -4,7 +4,7 @@
 
 ## Main Service
 
-4TU.ResearchData is a trusted digital repository which supports Findable, Accessible, Interoperable and Reusable (FAIR) data and software by offering [curation](/submission_workflow/data_curation.md), sharing, long-term access and [preservation](/data_preservation/intro.md). 
+4TU.ResearchData provides a trusted digital repository which supports Findable, Accessible, Interoperable and Reusable (FAIR) data and software by offering [curation](/submission_workflow/data_curation.md), sharing, long-term access and [preservation](/data_preservation/intro.md). 
 
 ## Repository Infrastructure
 
