@@ -21,5 +21,5 @@ The [FAIR Principles](https://www.nature.com/articles/sdata201618) principles ar
 
 Your data will benefit from higher visibility and greater potential for reuse within your research domain and the wider scientific community if you prepare and share it in line with the FAIR data principles. 
 
-You can make your research data software FAIR  by depositing them into a repository such as [4TU.ResearchData](https://data.4tu.nl/). This is because the metadata of published datasets and research software follows the [DataCite metadata schema](https://schema.datacite.org/), one of the most used metadata standards. All the data and software items have a clear and accessible [data usage licence](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing) to facilitate their reuse.
+You can make your research data and software FAIR  by depositing them into a repository such as [4TU.ResearchData](https://data.4tu.nl/). This is because the metadata of published datasets and research software follows the [DataCite metadata schema](https://schema.datacite.org/), one of the most used metadata standards. All the data and software items have a clear and accessible [data usage licence](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing) to facilitate their reuse.
 
