@@ -1,6 +1,6 @@
 ## Creating a [README](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) File
 
-Creating a comprehensive README file is essential for enhancing the findability and reusability of your deposited research data and software in the 4TU.ResearchData repository. A well-structured README improves data organization[ and provides critical context, making your research outputs more accessible to others. This aligns with the [FAIR](/introduction/fair_data_and_software) principles, ensuring that your data can be efficiently discovered and utilized by other researchers.
+Creating a comprehensive README file is essential for enhancing the findability and reusability of your deposited research data and software in the 4TU.ResearchData repository. A well-structured README improves data organization and provides critical context, making your research outputs more accessible to others. This aligns with the [FAIR](/introduction/fair_data_and_software) principles, ensuring that your data can be efficiently discovered and utilized by other researchers.
 
 Reusing your data not only amplifies its impact but also contributes to the advancement of knowledge in your field. When other researchers can easily access and build upon your work, it enhances your visibility, increases citations, and fosters collaboration, ultimately benefiting your academic career.
 
