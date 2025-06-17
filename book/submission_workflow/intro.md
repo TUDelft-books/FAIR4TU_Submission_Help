@@ -36,7 +36,7 @@ In order to maximize the impact and accessibility of your research, it is crucia
 
 [**Preparing Your Data Package**](/submission_workflow/preparing_your_data_package)
 * Organize research data files.
-* Ensure preservation-friendly formats.
+* Use open and standard file formats.
 * Verify data integrity and completeness.
 
 [**README File Preparation**](/submission_workflow/readme_and_documentation)
