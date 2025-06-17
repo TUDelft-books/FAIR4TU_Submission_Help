@@ -11,7 +11,7 @@ Many funding agencies mandate Open Access publishing and data sharing. You shoul
 - Check specific funder guidelines for [Data Management Plans (DMPs)](https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp.html) and sharing policies {cite}`the_turing_way_dmp_2021`. These may be requested at different stages and in different formats. For example: 
     - [NWO](https://www.nwo.nl/en) requires a research data management section in the proposal and asks for a detailed DMP within four months post-award.
     - [ZonMw](https://www.zonmw.nl/en) requires a data management paragraph in the proposal and asks for a DMP within six months post-award.
-    - [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) requires a research data management section of the proposal followed by a full DMP within six months of the project's start. 
+    - [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) requires a research data management section of the proposal followed by a full DMP within six months of the project start. 
 
 - Check the funder’s Open Access requirements.
     - Has ‘immediate Open Access’ to data upon publication been requested?
