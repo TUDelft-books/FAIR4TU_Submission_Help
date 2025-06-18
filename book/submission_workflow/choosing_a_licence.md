@@ -18,7 +18,7 @@ The repository provides several options for data and software.
 
 **Attribution-NonCommercial-ShareAlike (CC BY-NC-SA):** Permits non-commercial use and modification with credit, requiring the same licence for derivatives.
 
-**Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND):** Most restrictive, allowing only non-commercial sharing with credit,
+**Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND):** Most restrictive, allowing only non-commercial sharing with credit.
 
 ## Software Licences
 **MIT Licence:** Permissive, requiring only copyright notice retention.
