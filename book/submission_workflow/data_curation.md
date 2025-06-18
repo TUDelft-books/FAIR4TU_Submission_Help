@@ -172,7 +172,7 @@ This human-centered approach not only improves the quality of your data but also
 
 ### Terms and Agreement
 - **✅Deposit Agreement:**
-    - ✅Select "I agree with the [Deposit Agreement](https://data.4tu.nl/s/docs/deposit-agreement.pdf)." **It is highly recommended that you read the Agreement.**
+    - ✅Select "I agree with the [Deposit Agreement](https://data.4tu.nl/s/docs/deposit-agreement.pdf)." **It is highly recommended that you read this.**
     - ✅Select "I agree that my dataset will be published once the review is complete."
 
 ### Final Step
