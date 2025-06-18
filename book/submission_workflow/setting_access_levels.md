@@ -40,7 +40,7 @@ Raman, Chirag; Vargas Quiros, Jose; Tan, Stephanie; Islam, Ashraful; Gedik, Ekin
 
 In this case, the uploaders wanted the EULA recorded in a separate entry: 
 
-Raman, Chirag; Vargas Quiros, Jose; Tan, Stephanie; Islam, Ashraful; Gedik, Ekin et. al. (2022): EULA for ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild. Version 2. 4TU.ResearchData. https://doi.org/10.4121/2001619
+Raman, Chirag; Vargas Quiros, Jose; Tan, Stephanie; Islam, Ashraful; Gedik, Ekin et. al. (2022): EULA for ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild. Version 2. 4TU.ResearchData. https://doi.org/10.4121/20016194
 
 ## [Personal & Sensitive Data](https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/privacy-and-personal-data/what-are-personal-data)
 *(And what’s the difference)*
