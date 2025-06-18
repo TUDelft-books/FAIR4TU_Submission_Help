@@ -168,11 +168,11 @@ This human-centered approach not only improves the quality of your data but also
 ### Files
 - **✅Files:**
     - ✅Ensure the dataset or software and related files are uploaded (preferably in an archive format, e.g.: .zip)
-    - ✅Include a [README](/submission_workflow/readme_and_documentation) as README.txt file which is separate from the rest of the data zip file, so that researchers can see it without downloading the entire dataset. 
+    - ✅Include a [README](/submission_workflow/readme_and_documentation) as README.txt file, which is separate from your zipped data file. This way, researchers can download it separately and read it before downloading the entire dataset. 
 
 ### Terms and Agreement
 - **✅Deposit Agreement:**
-    - ✅Select "I agree with the [Deposit Agreement](https://data.4tu.nl/s/docs/deposit-agreement.pdf)."
+    - ✅Select "I agree with the [Deposit Agreement](https://data.4tu.nl/s/docs/deposit-agreement.pdf)." **It is highly recommended that you read the Agreement.**
     - ✅Select "I agree that my dataset will be published once the review is complete."
 
 ### Final Step
