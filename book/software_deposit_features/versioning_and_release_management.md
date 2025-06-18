@@ -1,4 +1,4 @@
-# 4TU Versioning & Release Management
+# 4TU.ResearchData Versioning & Release Management
 
 While 4TU.ResearchData does not provide inherent version control or release management, its integration with Git allows researchers to efficiently manage their software submissions and ensure proper citation through Digital Object Identifiers (DOIs). This integration facilitates:
 
