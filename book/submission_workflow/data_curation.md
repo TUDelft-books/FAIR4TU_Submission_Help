@@ -64,7 +64,7 @@ This human-centered approach not only improves the quality of your data but also
 - **✅Description:**
     - ✅Is there a short paragraph describing the dataset or software?
     - ✅Is the research aim, data collection method, and data type included?
-        - Note: you can use the Abstract of your published article.
+        - Note: you can use the Abstract of your published article but remember that your dataset is a separate research output and may need a unique description.
     - ✅Have you described what the data is about?
         - Note: It is NOT enough to state where the data comes from.
 
