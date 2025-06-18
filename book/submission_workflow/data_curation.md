@@ -82,8 +82,8 @@ This human-centered approach not only improves the quality of your data but also
 - **✅Restricted Access:**
     - ✅Specify the conditions for sharing the dataset.
     - ✅State a reason for restricted access.
-    - ✅Is there an end user licence agreement (EULA)? See example [here](https://data.4tu.nl/s/documents/4TU.ResearchData_EULA_Sept.2024.pdf?)utm_source=chatgpt.com)
-    
+    - ✅Is there an end user licence agreement (EULA)? See example [here](https://data.4tu.nl/s/documents/4TU.ResearchData_EULA_Sept.2024.pdf?)utm_source=chatgpt.com).
+ ,    
 - **✅Software Licence:**
     - ✅Choose an appropriate licence for software.
     - ✅If software and dataset are submitted together, include the chosen software licence in the README.
