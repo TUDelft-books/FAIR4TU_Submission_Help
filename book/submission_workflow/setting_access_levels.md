@@ -12,7 +12,7 @@ Selecting the appropriate access level for datasets and software in 4TU.Research
 
 **4. Metadata-Only:** Creates a record with descriptive information but without the actual data files because data is stored securely elsewhere. More information is available [here]( https://communities.springernature.com/posts/metadata-only-records-what-are-they-and-why-are-they-useful?badge_id=269-springer-nature). 
 
-These access levels are elaborated on in [page 4 of this document](https://data.4tu.nl/s/docs/data-collection-policy.pdf). 
+These access levels are elaborated on [page 4 of this document](https://data.4tu.nl/s/docs/data-collection-policy.pdf). 
 
 ## Metadata and Discoverability 
 
