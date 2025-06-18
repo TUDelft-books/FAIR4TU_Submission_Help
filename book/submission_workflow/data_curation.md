@@ -103,7 +103,7 @@ This human-centered approach not only improves the quality of your data but also
 - **✅Funding Information:**
     - ✅Add information about research funding.
     - ✅MINIMUM information required: the funder's name.
-    - ✅*Optional: include the grant number and grant provider's details.*
+    - ✅*If applicable, include the grant number and grant provider's details.*
 
 ### Linked Resources & References
 
