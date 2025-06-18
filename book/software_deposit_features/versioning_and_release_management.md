@@ -8,7 +8,7 @@ While 4TU.ResearchData does not provide inherent version control or release mana
 
 - **Precise citation:** Specific versions of software can be cited using DOIs, ensuring that others reference the exact code used for particular results.
 
-- **Long-term accessibility:** Older versions of software remain available within the repository, allowing for historical analysis and.
+- **Long-term accessibility:** Older versions of software remain available within the repository, allowing for historical analysis.
 
 - **Credibility:** A clear version history maintained externally demonstrates the development process and improvements over time.
 
