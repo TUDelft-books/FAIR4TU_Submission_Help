@@ -168,7 +168,7 @@ This human-centered approach not only improves the quality of your data but also
 ### Files
 - **✅Files:**
     - ✅Ensure the dataset or software and related files are uploaded (preferably in an archive format, e.g.: .zip)
-    - ✅Include a [README](/submission_workflow/readme_and_documentation).
+    - ✅Include a [README](/submission_workflow/readme_and_documentation) as README.txt file which is separate from the rest of the data zip file, so that researchers can see it without downloading the entire dataset. 
 
 ### Terms and Agreement
 - **✅Deposit Agreement:**
