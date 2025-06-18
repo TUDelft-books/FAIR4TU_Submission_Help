@@ -157,7 +157,7 @@ This human-centered approach not only improves the quality of your data but also
 
 - **✅Keywords:**
     - ✅Choose at least 4 keywords to enhance finadability (More are better!)
-    - ✅Ensure keywords describe the content, not the object.
+    - ✅Ensure keywords describe the content.
     - ✅Look at keywords used in other relevant datasets.
 
 - **✅Organizations:**
