@@ -183,7 +183,7 @@ This human-centered approach not only improves the quality of your data but also
 
 <center>
 
-You must then go to the top of the page and click the grey tab: 'Submit for Review.'
+You must then go to the top of the page and click the grey tab: **Submit for Review**.
 The submission **remains a draft and is not published** until the curator reviews it. 
 
 Once you receive an email with suggestions, **please reply to approve the suggested changes** and/or make any necessary amendments. 
