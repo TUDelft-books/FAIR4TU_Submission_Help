@@ -175,7 +175,7 @@ This human-centered approach not only improves the quality of your data but also
     - ✅Select "I agree with the [Deposit Agreement](https://data.4tu.nl/s/docs/deposit-agreement.pdf)." **It is highly recommended that you read this.**
     - ✅Select "I agree that my dataset will be published once the review is complete."
 
-### Next Step
+### Final Steps 
 
 <center>
 
@@ -183,9 +183,9 @@ This human-centered approach not only improves the quality of your data but also
 
 </center>
 
-### Final Step 
+ ![alt text](image.png)
 
-Go to the top and click on 'Submit for Review'
+</center>
 
 Your submission **remains a draft and is not published** until the curator reviews it. 
 
