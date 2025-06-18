@@ -190,4 +190,4 @@ Once you receive an email with suggestions, **please reply to approve the sugges
 
 It is important to remember that your dataset or software will not be published in the repository until you have replied and approved the changes. 
 
-[This link](https://data.4tu.nl/s/documents/Metadata_review_guidelines_June_2021.pdf) contains more information about Metadata Review. 
+[This link](https://data.4tu.nl/s/documents/Metadata_review_guidelines_June_2021.pdf) contains more information about what the curator pays attention to when reviewing the metadata of your submission. 
