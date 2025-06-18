@@ -31,7 +31,7 @@ Git integration can be established through the clear instructions provided by 4T
 
 - **Version Control:** Maintain a clear version history, ensuring collaborators and users can access specific versions of the code associated with research outputs.
 
-- **Linking:** Published code on 4TU can be linked to the ‘live’ version on your code-hosting platform.
+- **Linking:** Published code on 4TU.ResearchData can be linked to the ‘live’ version on your code-hosting platform.
 
 ## Uploading Software Files Using Git Integration
 
