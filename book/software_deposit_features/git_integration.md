@@ -27,7 +27,7 @@
 
 The 4TU.ResearchData repository provides seamless Git integration regardless of the code-hosting platform used (e.g. GitHub, GitLab etc.). This integration allows researchers to efficiently manage software submissions while leveraging Git’s powerful version control capabilities, enhancing the visibility and credibility of their contributions. 
 
-Git integration can be established through the clear instructions provide by 4TU.ResearchData and has several benefits: 
+Git integration can be established through the clear instructions provided by 4TU.ResearchData and has several benefits: 
 
 - **Version Control:** Maintain a clear version history, ensuring collaborators and users can access specific versions of the code associated with research outputs.
 
