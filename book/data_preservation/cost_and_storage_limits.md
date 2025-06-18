@@ -12,7 +12,7 @@ The repository guarantees long-term storage for at least 15 years, providing pea
 For larger datasets, there is a one-time fee of €4.50 per GB, allowing researchers to scale their storage needs as required.
 
 ## Partner Benefits
-Researchers from partner institutions are granted more generous storage allowances and lower rates. For example, TU Delft and University of Twente researchers can store up to 1 TB annually for free.
+Researchers from partner institutions are granted more generous storage allowances and lower rates. For example, Delft University of Technology and University of Twente researchers can store up to 1 TB annually for free.
 
 These flexible options ensure that you can affordably preserve and share their data, regardless of its size.
 
