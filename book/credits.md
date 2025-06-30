@@ -3,14 +3,15 @@
 
 You can refer to this book as:
 
-> `<Markanastasakis, C. from Delft University of Technology (2025). Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository. https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
+Markanastasakis, C. from Delft University of Technology (2025). *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository.* <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
+
 Source files at: [GitHub repository](https://github.com/TeachBooks/FAIR4TU_Submission_Help)
 
 You can refer to individual chapters or pages within this book as:
 
 `<Title of Chapter or Page>`. In Markanastasakis, C. from Delft University of Technology (2025), *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository*. <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/<page-filename>.html>  
 
-Source files at: <https://github.com/TeachBooks/FAIR4TU_Submission_Help/blob/<commit-hash>/intro.md>
+Source files at: <https://github.com/TeachBooks/FAIR4TU_Submission_Help/blob/abc1234567890abcdef/docs/intro.md>
 
 We anticipate that the content of this book will change significantly over time. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URLs in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location/commit within the book.
 
