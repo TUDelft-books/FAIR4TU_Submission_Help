@@ -5,13 +5,13 @@ You can refer to this book as:
 
 Markanastasakis, C. from Delft University of Technology (2025). *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository.* <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
 
-Source files at: [GitHub repository](https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help)
+Source files at: [GitHub repository](https://github.com/TUDelft-books/FAIR4TU_Submission_Help)
 
 You can refer to individual chapters or pages within this book as:
 
-"Title of Chapter or Page". In Markanastasakis, C. from Delft University of Technology (2025), *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository*. <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/<page-filename>.html>  
+"Title of Chapter or Page". In Markanastasakis, C. from Delft University of Technology (2025), *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository*. <https://oit.tudelft.nl/FAIR4TU_Submission_Help/main/<page-filename>.html>  
 
-Source files at: [GitHub repository](https://github.com/TeachBooks/FAIR4TU_Submission_Help)
+Source files at: [GitHub repository](https://github.com/TUDelft-books/FAIR4TU_Submission_Help)
 
 We anticipate that the content of this book will change significantly over time. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URLs in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location/commit within the book.
 
@@ -19,7 +19,7 @@ We anticipate that the content of this book will change significantly over time.
 
 This book was created using open source tools. It is a Jupyter Book written in Markdown and Jupyter Notebooks. Additional tooling from the [TeachBooks initiative](https://teachbooks.io/) is used to enhance the editing and reading experience.  
 
-All source files are stored in a [public GitHub repository](https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help). The website can be viewed at <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>.  
+All source files are stored in a [public GitHub repository](https://github.com/TUDelft-books/FAIR4TU_Submission_Help). The website can be viewed at <https://oit.tudelft.nl/FAIR4TU_Submission_Help/main/intro.html>.  
 
 Contact the authors for additional information.
 
@@ -60,6 +60,8 @@ She has a background in higher education, digital learning, and research support
 
 ### Acknowledgements
 A special thanks to Aleksandra Wilczynska for her significant contributions, including drafting sections on uploading software and assisting with the creation of the screencasts. Her support was crucial to completing these components.
+
+A warm thank you to the [TeachBooks team](https://teachbooks.io/), whose technical support and encouragement were instrumental in making this resource possible.
 
 This learning resource was developed with the assistance of Perplexity AI (2024) and ChatGPT (OpenAI, 2024–2025). The AI-generated content was used as guidance, and all final material was reviewed and curated by the author(s).
 
