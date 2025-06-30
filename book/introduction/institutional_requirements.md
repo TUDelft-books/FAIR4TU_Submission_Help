@@ -1,6 +1,6 @@
 # Institutional Requirements
 
-When uploading datasets and software to the 4TU.ResearchData repository, you should check to ensure you have complied with the policies of your institution. These policies  are established to support responsible data management, ensuring that research data is managed effectively from creation to preservation, and aligns with [FAIR](https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/introduction/fair_data_and_software.html). 
+When uploading datasets and software to the 4TU.ResearchData repository, you should check to ensure you have complied with the policies of your institution. These policies  are established to support responsible data management, ensuring that research data is managed effectively from creation to preservation, and aligns with FAIR. 
 
 It is recommended that you consult our institution’s **Data Steward** or other research support staff to ensure you are using the appropriate templates and institutional processes. This is particularly important when creating a Data Management Plan (DMP) or sharing data and code.
 
