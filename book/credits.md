@@ -8,7 +8,7 @@ Source files at: [GitHub repository](https://github.com/TeachBooks/FAIR4TU_Submi
 
 You can refer to individual chapters or pages within this book as:
 
-`Introduction`. In Markanastasakis, C. from Delft University of Technology (2025), *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository*. <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
+`<Title of Chapter or Page>`. In Markanastasakis, C. from Delft University of Technology (2025), *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository*. <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/<page-filename>.html>  
 
 Source files at: <https://github.com/TeachBooks/FAIR4TU_Submission_Help/blob/<commit-hash>/intro.md>
 
