@@ -5,7 +5,7 @@ You can refer to this book as:
 
 Markanastasakis, C. from Delft University of Technology (2025). *Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository.* <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
 
-Source files at: [GitHub repository](https://github.com/TeachBooks/FAIR4TU_Submission_Help)
+Source files at: [GitHub repository](https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help)
 
 You can refer to individual chapters or pages within this book as:
 
@@ -19,7 +19,7 @@ We anticipate that the content of this book will change significantly over time.
 
 This book was created using open source tools. It is a Jupyter Book written in Markdown and Jupyter Notebooks. Additional tooling from the [TeachBooks initiative](https://teachbooks.io/) is used to enhance the editing and reading experience.  
 
-All source files are stored in a [public GitHub repository](https://github.com/TeachBooks/FAIR4TU_Submission_Help). The website can be viewed at <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>.  
+All source files are stored in a [public GitHub repository](https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help). The website can be viewed at <https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>.  
 
 Contact the authors for additional information.
 
