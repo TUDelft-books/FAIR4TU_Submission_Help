@@ -43,7 +43,7 @@ If you received explicit permission to reuse internal materials, you can note th
 Used with permission from 4TU.ResearchData.
 
 (editor)=
-## About the Editors
+## About the Editor
 
 **Christina Markanastasakis**  
 Christina worked as Project Lead and Learning Designer for this resource, developed as part of a special project at [4TU.ResearchData](https://data.4tu.nl), hosted by the [TU Delft Library](https://www.tudelft.nl/library). Her role involved structuring, writing, and adapting content to support researchers in understanding and applying good metadata practices aligned with the FAIR principles.  
@@ -51,5 +51,7 @@ Christina worked as Project Lead and Learning Designer for this resource, develo
 She has a background in higher education, digital learning, and research support, and is passionate about making complex information more accessible and useful to academic communities.  
 
 ### Acknowledgements
+A special thanks to Aleksandra Wilczynska for her significant contributions, including drafting sections on uploading software and assisting with the creation of the screencasts. Her support was crucial to completing these components.
+
 This learning resource was developed with the assistance of Perplexity AI (2024) and ChatGPT (OpenAI, 2024–2025). The AI-generated content was used as guidance, and all final material was reviewed and curated by the author(s).
 
