@@ -20,9 +20,9 @@ This book is created using open source tools: it is a JupyterBook that is writte
 This manual is [CC BY 4.0 licensed](https://creativecommons.org/licenses/by/4.0/) allowing you to share and adapt the material, as long as the source is named. External resources that are reused in this manual are listed below.
 
 (external_resources)=
-### External resources
+## External resources
 
-## Reused Content and Attribution
+### Reused Content and Attribution
 
 This Jupyter Book draws extensively on the public documentation, submission guidance, and support materials provided by [4TU.ResearchData](https://data.4tu.nl). The content has been restructured, rewritten, and supplemented to serve as a pedagogical resource supporting researcher learning and training.
 
