@@ -7,7 +7,7 @@ execute:
 only_build_toc_files: true
 
 html:
-  baseurl :  "https://oit.tudelft.nl/" #Replace this with your own URL
+  baseurl :  "https://oit.tudelft.nl/FAIR4TU_Submission_Help" #Replace this with your own URL
 
 sphinx:
   config:
@@ -23,7 +23,7 @@ sphinx:
         text: How (and Why) to Share Your Data
         image_light: 4tu_logo.png
         image_dark: 4tu_logo.png
-      repository_url: "https://github.com/TUDelft-books/https-github.com-TeachBooks-FAIR4TU_Submission_Help/" #add your own repo URL here
+      repository_url: "https://github.com/TUDelft-books/FAIR4TU_Submission_Help" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
       use_edit_page_button: true
