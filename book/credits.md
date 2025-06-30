@@ -3,7 +3,7 @@
 
 You can refer to this book as:
 
-> <Markanastasakis, C. from Delft University of Technology (2025). Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository. https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
+> `<Markanastasakis, C. from Delft University of Technology (2025). Creating Metadata for Research: A Guide for Researchers Using the 4TU.ResearchData Repository. https://oit.tudelft.nl/https-github.com-TeachBooks-FAIR4TU_Submission_Help/main/intro.html>
 Source files at: > `<https-github.com-TeachBooks-FAIR4TU_Submission_Help>
 
 You can refer to individual chapters or pages within this book as:
@@ -30,7 +30,7 @@ Unless otherwise indicated, the core concepts, definitions, and examples are ada
 
 Original content © 4TU.ResearchData. Adapted content is used with permission and in alignment with the aims of the project.
 
-Some figures or tables have been reused directly from 4TU.ResearchData documentation and are credited accordingly on individual pages.
+Some media content has been reused directly from 4TU.ResearchData documentation and are credited accordingly on individual pages.
 
 This book is published under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), except where otherwise noted.
 
