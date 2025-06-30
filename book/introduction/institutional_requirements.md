@@ -10,7 +10,7 @@ It is recommended that you consult our institution’s **Data Steward** or other
 
 - **Documentation and Accessibility:** Research data and software, should be properly documented and stored in a repository for at least ten years post-project completion. This ensures that data is accessible for verification and reuse.
 
-- **[Licensing](submission_workflow/choosing_a_licence) and Registration:** Researchers need to  ensure their datasets and software are appropriately licensed and registered. This facilitates legal use and potential commercialization while protecting intellectual property.
+- **[Licensing](/submission_workflow/choosing_a_licence) and Registration:** Researchers need to  ensure their datasets and software are appropriately licensed and registered. This facilitates legal use and potential commercialization while protecting intellectual property.
 
 By following these guidelines, researchers not only comply with institutional policies but also enhance the visibility and impact of their work. It is crucial to consult with faculty data stewards for specific guidance tailored to individual projects.
 
