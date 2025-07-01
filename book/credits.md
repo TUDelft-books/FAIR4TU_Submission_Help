@@ -63,5 +63,5 @@ A special thanks to Aleksandra Wilczynska for her significant contributions, inc
 
 A warm thank you to the [TeachBooks team](https://teachbooks.io/), whose technical support and encouragement were instrumental in making this resource possible.
 
-This learning resource was developed with the assistance of Perplexity AI (2024) and ChatGPT (OpenAI, 2024–2025). The AI-generated content was used as guidance, and all final material was reviewed and curated by the author(s).
+This learning resource was developed with the assistance of Perplexity AI (2024) and ChatGPT (OpenAI, 2024–2025). The AI-generated content was used as guidance, and all final material was reviewed and curated by the author in consultation with the technical team of 4TU.ResearchData.
 
