@@ -8,7 +8,7 @@ Follow these guidelines to develop a comprehensive data package:
 * Gather all datasets, scripts, and documentation necessary for understanding and reproducing your research.
 * Decide whether you will publish your  raw or processed data, or both. This depends on how you think the data will be used in the future. 
 
-**2. Use consistent and descriptive [file naming](https://book.the-turing-way.org/project-design/info-management/filenaming):**
+**2. Use consistent and descriptive [file naming](https://book.the-turing-way.org/project-design/info-management/filenaming):** {cite}`the_turing_way_filenaming_2022`
 * Name files clearly, incorporating details such as project name, date, and version number.
 * Avoid special characters and spaces; use underscores instead.
 
