@@ -53,7 +53,7 @@ Used with permission from 4TU.ResearchData.
 
 ## About the Editor
 
-**Christina Markanastasakis**  
+**[Christina Markanastasakis](https://www.linkedin.com/in/christina-markanastasakis-23405299/)**  
 Christina worked as Project Lead and Learning Designer for this resource, developed as part of a special project at [4TU.ResearchData](https://data.4tu.nl), hosted by the [TU Delft Library](https://www.tudelft.nl/library). Her role involved structuring, writing, and adapting content to support researchers in understanding and applying good metadata practices aligned with the FAIR principles.  
 
 She has a background in higher education, digital learning, and research support, and is passionate about making complex information more accessible and useful to academic communities.  
