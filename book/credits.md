@@ -43,7 +43,7 @@ Some media content has been reused directly from 4TU.ResearchData documentation 
 
 This book is published under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), except where otherwise noted.
 
-Additional Tips
+### Additional Tips
 
 If the PDFs or web content have a visible license (e.g. CC BY), include that.
 
