@@ -39,4 +39,6 @@ This means DOIs are versioned and appear as follows:
     <iframe src="https://www.youtube.com/embed/-r8CYs5ggUo?si=_xFGmPmoaC4ZLiHj" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 
+<br>
+
 By following these steps, researchers can ensure their datasets remain current and useful for future research endeavors while maintaining compliance with repository standards.
